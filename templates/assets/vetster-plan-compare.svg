@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430" role="img" aria-label="Vetster review infographic: Vetster Plus at 12 dollars per month billed annually with 4 same-day video appointments a year, against a single appointment starting at 102 dollars one-time; both include 48-hour follow-up messaging and VetsterRx prescriptions">
+  <defs>
+    <marker id="arw2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Vetster's two published ways to pay, read off its own pages</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Left: the Vetster Plus subscription. Right: paying per appointment. Every figure below is printed on vetster.com.</text>
+
+    <!-- left panel -->
+    <rect x="8" y="70" width="452" height="250" rx="16" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <rect x="8" y="70" width="452" height="46" rx="16" fill="#e2e8f0"/>
+    <text x="30" y="100" font-size="19" font-weight="700" fill="#0f172a">Vetster Plus</text>
+    <text x="30" y="146" font-size="30" font-weight="700" fill="#0f172a">$12/month</text>
+    <text x="30" y="170" font-size="14" fill="#334155">billed annually (once per year)</text>
+    <text x="30" y="204" font-size="14" fill="#334155">• 4 same-day video appointments a year</text>
+    <text x="30" y="228" font-size="14" fill="#334155">• 50% off additional bookings</text>
+    <text x="30" y="252" font-size="14" fill="#334155">• Up to 2 unused appointments carry over</text>
+    <text x="30" y="276" font-size="14" fill="#334155">• Unlimited messaging with registered vet techs</text>
+    <text x="30" y="300" font-size="14" fill="#334155">• All pets covered under one plan</text>
+
+    <!-- right panel -->
+    <rect x="500" y="70" width="452" height="250" rx="16" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+    <rect x="500" y="70" width="452" height="46" rx="16" fill="#e2e8f0"/>
+    <text x="522" y="100" font-size="19" font-weight="700" fill="#0f172a">Single appointment</text>
+    <text x="522" y="146" font-size="30" font-weight="700" fill="#0f172a">From $102</text>
+    <text x="522" y="170" font-size="14" fill="#334155">one-time, billed at marketplace rates</text>
+    <text x="522" y="204" font-size="14" fill="#334155">• One online veterinary appointment only</text>
+    <text x="522" y="228" font-size="14" fill="#334155">• Covers one pet only</text>
+    <text x="522" y="252" font-size="14" fill="#334155">• Pharmacy fee $14 per order (non-member)</text>
+    <text x="522" y="276" font-size="14" fill="#334155">• Compounding fee $20 per medication</text>
+    <text x="522" y="300" font-size="14" fill="#334155">• Standard shipping free on orders over $45</text>
+
+    <!-- shared band -->
+    <rect x="8" y="336" width="944" height="54" rx="14" fill="#0f172a"/>
+    <text x="30" y="360" font-size="15" font-weight="700" fill="#ffffff">Included in BOTH options:</text>
+    <text x="30" y="382" font-size="14" fill="#e2e8f0">access to thousands of veterinarians · secure video calls · 48-hour follow-up live messaging · prescriptions through VetsterRx · available in all states</text>
+
+    <text x="8" y="414" font-size="12.5" fill="#64748b">Source: vetster.com/en-us/plus (price, inclusions, fees FAQ) and vetster.com/en-us/vetster-rx-online-pharmacy (fee table) · checked 2026-09-26</text>
+  </g>
+</svg>

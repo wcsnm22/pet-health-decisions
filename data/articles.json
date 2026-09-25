@@ -1,1 +1,637 @@
-{"articles": []}
+{
+  "articles": [
+    {
+      "slug": "vetster-review",
+      "nav_label": "Vetster Review",
+      "type": "review",
+      "keyword": "vetster review",
+      "published": "2026-09-26",
+      "title": "Vetster Review 2026: Vetster Plus vs a Single Appointment, Prices and Prescriptions",
+      "description": "Vetster review built only from Vetster's own pages: Vetster Plus at $12/month billed annually, a single appointment from $102 one-time, the VetsterRx fee table and the prescribing rules, every figure with its official source, checked 2026-09-26.",
+      "h1": "Vetster review: what Vetster's own pages say about price, appointments and prescriptions",
+      "lede": "Quick answer: Vetster is a marketplace where you book a licensed veterinarian for a video appointment, 24/7. On its own published numbers there are two ways to pay - Vetster Plus at $12/month billed annually, which includes 4 same-day video appointments a year, or a single appointment starting at $102 one-time. Both options include 48-hour follow-up live messaging with your vet and prescriptions through VetsterRx. Prescribing is always the veterinarian's decision and depends on your state's rules, and Vetster states online vets are not a replacement for emergency clinics. Every figure below was read from vetster.com on 2026-09-26.",
+      "stats": [
+        {
+          "value": "$12/mo",
+          "label": "Vetster Plus, billed annually (Vetster's own price)"
+        },
+        {
+          "value": "$102",
+          "label": "published starting price of one appointment"
+        },
+        {
+          "value": "48 hrs",
+          "label": "follow-up live messaging included with both options"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Vetster Plus",
+          "url": "/vetster-online-vet"
+        },
+        {
+          "name": "Single appointment",
+          "url": "/vetster-online-vet"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Published price",
+          "cells": [
+            "$12/month, billed annually (once per year)",
+            "Starting at $102 one-time, billed at marketplace rates"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            "https://vetster.com/en-us/plus"
+          ]
+        },
+        {
+          "label": "Video appointments included",
+          "cells": [
+            "4 same-day video appointments a year, plus 50% off additional bookings; up to 2 unused appointments carry over to the next billing cycle",
+            "Single online veterinary appointment only"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            "https://vetster.com/en-us/plus"
+          ]
+        },
+        {
+          "label": "Pets covered",
+          "cells": [
+            "All pets covered under one plan - the benefit can be shared by any pet in the home",
+            "Covers one pet only"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            "https://vetster.com/en-us/plus"
+          ]
+        },
+        {
+          "label": "Follow-up with the vet",
+          "cells": [
+            "48-hour follow-up live messaging with your vet, included",
+            "48-hour follow-up live messaging with your vet, included"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            "https://vetster.com/en-us/plus"
+          ]
+        },
+        {
+          "label": "Messaging with vet techs",
+          "cells": [
+            "Unlimited messaging with registered vet techs",
+            "not published on the official page for the single-appointment option"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            ""
+          ]
+        },
+        {
+          "label": "Prescriptions",
+          "cells": [
+            "Prescriptions through VetsterRx - order online or pick up from your local pharmacy",
+            "Prescriptions through VetsterRx - order online or pick up from your local pharmacy"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy"
+          ]
+        },
+        {
+          "label": "Pharmacy fee per order",
+          "cells": [
+            "$7 per order",
+            "$14 per order (non-member rate)"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy"
+          ]
+        },
+        {
+          "label": "Compounding fee per medication",
+          "cells": [
+            "$10 per medication",
+            "$20 per medication (non-member rate)"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy"
+          ]
+        },
+        {
+          "label": "Standard shipping (2-3 business days, 3pm EST cut-off)",
+          "cells": [
+            "Free",
+            "Free on orders over $45"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy"
+          ]
+        },
+        {
+          "label": "Express shipping (1-2 business days, 12pm EST cut-off)",
+          "cells": [
+            "$19",
+            "$19"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy"
+          ]
+        },
+        {
+          "label": "Cancellation",
+          "cells": [
+            "Cancel at any time, but the membership must be canceled before it renews to avoid the next billing cycle",
+            "not published on the official page - a single appointment is a one-time purchase"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            ""
+          ]
+        },
+        {
+          "label": "Where the visit happens",
+          "cells": [
+            "Secure video call, available in all states",
+            "Secure video call, available in all states"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            "https://vetster.com/en-us/plus"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Vetster Plus costs $12/month, billed annually.",
+          "condition": "The Vetster Plus FAQ states billing occurs annually (once per year); products and related fees are not included in the subscription.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster Plus includes 4 same-day video appointments a year, 50% off additional bookings, and up to 2 unused appointments carried over to the next billing cycle.",
+          "condition": "Listed as subscription inclusions on the Vetster Plus page; the benefit can be shared by any pet in the home.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "A single Vetster appointment starts at $102 one-time and is billed at marketplace rates.",
+          "condition": "Printed as 'Starting at $102 one-time' in the 'Per appointment' column of the Vetster Plus page; it covers one pet only.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Both payment options include access to thousands of veterinarians, secure video calls with 48-hour follow-up live messaging, prescriptions through VetsterRx, medical records that stay with you, and availability in all states.",
+          "condition": "Listed under 'Both payment options include' on the Vetster Plus page.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster Plus members pay a $7 pharmacy fee per order and a $10 compounding fee per medication; non-members pay $14 and $20.",
+          "condition": "Fee table on the VetsterRx page; Vetster states pharmacy fees cover the administrative work of coordinating prescriptions between vet and pharmacy.",
+          "source_url": "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Standard shipping (2-3 business days, 3pm EST cut-off) is free for Vetster Plus members and for non-member orders over $45; express shipping (1-2 business days, 12pm EST cut-off) costs $19 for both.",
+          "condition": "Shipping table on the VetsterRx page; refrigerated items are express-only Monday to Thursday and are excluded from standard shipping.",
+          "source_url": "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "VetsterRx fulfillment is listed as available in all 50 States; compounded medications and vet approvals may add 2-5 business days, and controlled substances require a delivery signature.",
+          "condition": "Stated in the VetsterRx FAQ and shipping notes on the official pharmacy page.",
+          "source_url": "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster is a marketplace, not a pharmacy: you choose where to fill each prescription and Vetster sends it directly to that pharmacy.",
+          "condition": "From Vetster's own prescription guide; a clearly labeled prescription service fee is shown before checkout.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "An online vet can prescribe only when a valid vet-client-patient relationship (VCPR) exists and the condition is appropriate for virtual care; whether that relationship can be built over video depends on state rules.",
+          "condition": "Vetster's prescription guide also notes federal guidance often requires the VCPR to be grounded in a real exam or visit, and that prescribing is always the veterinarian's decision.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Online veterinarians complete the same education and licensing process as all veterinarians.",
+          "condition": "From Vetster's 'Online vet visits: how virtual veterinary care works' guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster lists seven signs that need immediate in-person or emergency care: difficulty breathing, uncontrolled bleeding, collapse or seizures, severe or sudden pain, suspected poisoning, major trauma, and being unable to urinate.",
+          "condition": "From the 'When should you use an online vet vs. go in person?' section of Vetster's guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Your pet should stay on camera for as much of the appointment as possible: if the pet is not present, the vet may be unable to provide a diagnosis or prescribe medication.",
+          "condition": "From Vetster's preparation guide; having the pet on screen creates the basis for the veterinary-client-patient relationship.",
+          "source_url": "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Vetster Plus page shows two review scores, 4.9 and 4.8, under the heading 'Pet parents say it best' with a 'See more reviews' link.",
+          "condition": "The page does not name the store or platform behind either score, so this page repeats only the numbers exactly as printed.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "You can cancel Vetster Plus at any time, but the membership must be canceled before it renews to avoid the next billing cycle.",
+          "condition": "Stated in the cancellation FAQ on the Vetster Plus page.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does Vetster cost?",
+          "a": "Vetster Plus is $12/month, billed annually. Twelve months at that published price comes to $144 (12 x $12, arithmetic on Vetster's own figure) and it includes 4 same-day video appointments a year plus unlimited messaging with registered vet techs. A single appointment starts at $102 one-time at marketplace rates. Products, pharmacy fees and shipping are charged separately.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What is the difference between Vetster Plus and paying per appointment?",
+          "a": "Vetster Plus is a yearly subscription: 4 same-day video appointments a year, 50% off additional bookings, up to 2 unused appointments carried over, unlimited messaging with registered vet techs, all pets under one plan. Paying per appointment buys one visit for one pet at marketplace rates, starting at $102 one-time, with the 48-hour follow-up messaging included.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can a Vetster vet prescribe medication?",
+          "a": "Yes, when a valid vet-client-patient relationship is in place and the condition can be handled safely over video. Whether that relationship can be established online depends on your state's rules, federal guidance often expects a real exam first, and prescribing is always the veterinarian's decision. The prescription is then sent to the pharmacy you choose - Vetster is not a pharmacy.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What are Vetster's pharmacy and shipping fees?",
+          "a": "Pharmacy fee per order: $7 for Vetster Plus members, $14 for non-members. Compounding fee per medication: $10 for members, $20 for non-members. Standard shipping (2-3 business days) is free for members and for non-member orders over $45; express shipping (1-2 business days) is $19 for everyone.",
+          "source_url": "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is Vetster available in my state?",
+          "a": "Both payment options are listed as available in all states, and VetsterRx fulfillment is listed as available in all 50 States. Whether a vet can prescribe during an online visit still depends on your state's rules, so that is confirmed during the appointment itself.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "When should I not use an online vet?",
+          "a": "Go in person immediately for difficulty breathing, uncontrolled bleeding, collapse or seizures, severe or sudden pain, suspected poisoning, major trauma, or being unable to urinate. Vetster states online vets are not a replacement for emergency clinics and that an online vet will direct you to appropriate in-person care.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How long can I message my vet after the appointment?",
+          "a": "48-hour follow-up live messaging with your vet is included in both payment options. Vetster Plus separately includes unlimited messaging with registered vet techs for help with pet health, behaviour, nutrition and urgent advice.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does this Vetster review check, and what does it not check?",
+          "a": "It checks only what Vetster publishes on its own pages - the subscription price, the single-appointment price, the VetsterRx fee table, the prescribing rules and the emergency list - each with its source link and check date of 2026-09-26. It does not test-drive appointments, and it does not repeat prices from third-party comparison sites.",
+          "source_url": "https://vetster.com/en-us/plus",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Editorial review of Vetster's own published pages - not veterinary advice and not a paid endorsement. Prices, inclusions and fees change, so every figure carries its official source link and a check date of 2026-09-26; re-read the official page before you pay. Nothing here is a diagnosis: in an emergency, go to a clinic.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this review is built",
+          "html": "<p>There is no independent score for an online vet service, and we will not invent one. This Vetster review reads only Vetster's own pages: the Vetster Plus page (price, inclusions, billing and cancellation FAQ), the VetsterRx pharmacy page (the full fee table) and Vetster's two wellness guides (how virtual care works, and how prescriptions work). Every number in the table below carries a link to the page it was read from and a check date.</p><p>Where Vetster does not publish something - for example, what a single appointment costs beyond the printed starting price, or how long a subscription has been running for a given pet - this page says <em>not published on the official page</em> instead of guessing.</p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Vetster Plus vs a single appointment - published figures only"
+        },
+        {
+          "type": "section",
+          "h2": "What the numbers say side by side",
+          "html": "<p><strong>The subscription and the single visit are priced on different units, so compare the units first.</strong> Vetster prints $12/month and then states in its own FAQ that billing occurs annually, once per year. A single appointment is printed as a one-time starting price of $102 and billed at whatever the chosen veterinarian's marketplace rate is - that is why the table says <em>starting at</em> and not <em>costs</em>.</p><p><strong>The fee table is where the two options quietly diverge.</strong> The same pharmacy page prints both rates side by side: $7 vs $14 per order, $10 vs $20 per compounding, free standard shipping vs free only above $45. Express shipping is $19 either way.</p><p><img src=\"/assets/vetster-plan-compare.svg\" alt=\"Vetster review infographic: Vetster Plus at 12 dollars per month billed annually with 4 same-day video appointments a year against a single appointment starting at 102 dollars one-time, both including 48-hour follow-up messaging and VetsterRx prescriptions\" width=\"100%\"></p>"
+        },
+        {
+          "type": "section",
+          "h2": "Where an online vet stops",
+          "html": "<p>Vetster is explicit about the boundary, and a review that hides it would be useless. Its own guide says to seek immediate in-person or emergency care for seven signs: difficulty breathing, uncontrolled bleeding, collapse or seizures, severe or sudden pain, suspected poisoning, major trauma, and being unable to urinate. Its preparation guide repeats the point in different words - telehealth is not a substitute for emergency care.</p><p>Prescribing sits in the middle. Vetster's prescription guide says a valid vet-client-patient relationship is required in almost every state, that the open question is whether that relationship can be built over video, that federal guidance often expects a real exam first, and that prescribing is always the veterinarian's decision. Practical consequence for a reviewer: the appointment can end with \"your pet needs to be seen in person\", and that is the clinic standard, not a runaround.</p>"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure in this review with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Vetster review FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    },
+    {
+      "slug": "online-vet-vs-in-person",
+      "nav_label": "Online Vet vs In-Person",
+      "type": "vs",
+      "keyword": "online vet vs in person vet",
+      "published": "2026-09-26",
+      "title": "Online Vet vs In-Person Vet: When Each One Makes Sense (Vetster's Own Guidance)",
+      "description": "Online vet vs in-person vet decided on Vetster's published guidance: the seven urgent signs that mean go to a clinic now, the conditions an online vet handles, the VCPR and state rules behind prescriptions, checked 2026-09-26.",
+      "h1": "Online vet vs in-person vet: when a video visit is enough and when you must go to a clinic",
+      "lede": "Quick answer: book an online vet for quick answers, after-hours questions, follow-up care, chronic-condition management, preventive care and medication questions. Go in person immediately - before any video call - if your pet has difficulty breathing, uncontrolled bleeding, collapses or seizes, has severe or sudden pain, suspected poisoning, major trauma, or is unable to urinate. Those seven signs are Vetster's own list, read from its online vet guide on 2026-09-26. A prescription is a separate question: it needs a valid vet-client-patient relationship, and whether that can be built over video depends on your state's rules.",
+      "stats": [
+        {
+          "value": "7",
+          "label": "urgent signs Vetster says mean in-person care now"
+        },
+        {
+          "value": "48 hrs",
+          "label": "follow-up messaging after an online appointment"
+        },
+        {
+          "value": "2026-09-26",
+          "label": "every line rechecked against Vetster's pages"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Online vet visit",
+          "url": "/vetster-online-vet"
+        },
+        {
+          "name": "In-person care (Vetster's guidance)",
+          "url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Emergency signs",
+          "cells": [
+            "Not a replacement for emergency clinics: Vetster says an online vet will direct you to appropriate in-person care and explain what may be going on",
+            "Seek immediate in-person or emergency care for difficulty breathing, uncontrolled bleeding, collapse or seizures, severe or sudden pain, suspected poisoning, major trauma, or being unable to urinate"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works"
+          ]
+        },
+        {
+          "label": "Skin, ear, eye and coat concerns",
+          "cells": [
+            "One of the most common reasons pets book: the vet reviews uploaded photos or videos and asks about recent diet, environment or product changes",
+            "Conditions needing lab work or imaging usually need in-person care first"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+            "https://vetster.com/en/wellness/online-vet-prescriptions"
+          ]
+        },
+        {
+          "label": "Digestive and urinary changes",
+          "cells": [
+            "Vomiting, diarrhea, constipation, appetite changes and increased thirst are symptoms Vetster veterinarians see often on video",
+            "Complex or serious illnesses, and anything needing a hands-on physical exam, usually need in-person care first"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+            "https://vetster.com/en/wellness/online-vet-prescriptions"
+          ]
+        },
+        {
+          "label": "Prescription and medication questions",
+          "cells": [
+            "Once a valid vet-client-patient relationship exists and the condition is appropriate, a licensed vet can prescribe during an online visit and send it to the pharmacy you choose",
+            "Higher-risk drugs, many controlled substances and medications that require close monitoring usually need in-person care first"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-prescriptions",
+            "https://vetster.com/en/wellness/online-vet-prescriptions"
+          ]
+        },
+        {
+          "label": "Follow-up and chronic-condition care",
+          "cells": [
+            "Well suited to follow-up care, chronic condition management and medication questions, with 48-hour follow-up live messaging after the appointment",
+            "When the vet decides a hands-on exam, lab work or imaging is needed first, that in-person step is the same standard of care a clinic follows"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+            "https://vetster.com/en/wellness/online-vet-prescriptions"
+          ]
+        },
+        {
+          "label": "Preventive care and everyday planning",
+          "cells": [
+            "A great option for flea and tick prevention, vaccine guidance and general wellness planning, plus diet, weight and supplement questions",
+            "not published on the official Vetster pages checked for this row"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+            ""
+          ]
+        },
+        {
+          "label": "Cost of the visit",
+          "cells": [
+            "Vetster Plus is $12/month billed annually with 4 same-day video appointments a year; a single appointment starts at $102 one-time",
+            "not published on the official Vetster pages checked for this row - Vetster does not publish clinic prices"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/plus",
+            ""
+          ]
+        },
+        {
+          "label": "Hours",
+          "cells": [
+            "24/7 on-demand online vet appointments",
+            "not published on the official Vetster pages checked for this row"
+          ],
+          "sources": [
+            "https://vetster.com/en-us/vetster-rx-online-pharmacy",
+            ""
+          ]
+        },
+        {
+          "label": "Preparation for the visit",
+          "cells": [
+            "Keep your pet on camera for as much of the appointment as possible, upload a high-resolution photo or video beforehand, and start getting ready about 30 minutes before",
+            "Unlike in-person care, where a vet can move closer or touch your pet, a virtual visit relies entirely on what can be seen on the screen"
+          ],
+          "sources": [
+            "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+            "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Vetster lists seven signs that need immediate in-person or emergency care: difficulty breathing, uncontrolled bleeding, collapse or seizures, severe or sudden pain, suspected poisoning, major trauma, and being unable to urinate.",
+          "condition": "From the 'When should you use an online vet vs. go in person?' section of Vetster's guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Online veterinarians complete the same education and licensing process as all veterinarians.",
+          "condition": "From Vetster's 'Online vet visits: how virtual veterinary care works' guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "After the visit, Vetster allows follow-up communication with the veterinarian by chat for 48 hours.",
+          "condition": "Stated in the 'How does an online vet visit work?' section; a medical record is provided after the visit, and a prescription if available.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster describes online visits as well suited to quick answers, after-hours use when physical clinics are unavailable, follow-up care, chronic condition management, preventive recommendations, medication questions and quality-of-life discussions.",
+          "condition": "From Vetster's own list of when an online vet is the right choice.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Telehealth, which includes telemedicine and teletriage, is not a substitute for emergency care; pets with severe symptoms or distress should be seen in person right away.",
+          "condition": "Opening section of Vetster's preparation guide, verified by Dr. Jo Myers.",
+          "source_url": "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Having your pet on screen for as much of the appointment as possible creates the basis for a veterinary-client-patient relationship; if the pet is not present, the vet may be unable to diagnose or prescribe.",
+          "condition": "From Vetster's preparation guide.",
+          "source_url": "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster suggests starting preparation about 30 minutes before the appointment and uploading a high-resolution photo or video beforehand, because live video can be blurry or lag.",
+          "condition": "From the pre-call checklist in Vetster's preparation guide.",
+          "source_url": "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Almost every state requires a valid vet-client-patient relationship before any vet - online or in person - can prescribe; the open question is whether that relationship can be established over video.",
+          "condition": "From Vetster's prescription guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "For many prescription medications, federal guidance holds that the vet-client-patient relationship needs to be grounded in a real exam or visit rather than a video appointment alone.",
+          "condition": "From Vetster's prescription guide, which frames state rules and the vet's judgment inside that federal picture.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster's list of what is often appropriate for online care: skin irritation and allergies, fleas, ticks and intestinal parasites, anxiety and certain behaviour concerns, minor infections, and follow-ups or medication adjustments for chronic conditions.",
+          "condition": "Left-hand column of the two-column table in Vetster's prescription guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster's list of what usually needs in-person care first: conditions needing lab work or imaging, complex or serious illnesses, medications requiring close monitoring, higher-risk drugs and many controlled substances, and anything needing a hands-on physical exam.",
+          "condition": "Right-hand column of the two-column table in Vetster's prescription guide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Vetster is not a pharmacy: you choose where to fill a prescription, and Vetster sends it directly to that pharmacy, whether local or online.",
+          "condition": "From Vetster's prescription guide; a clearly labeled prescription service fee appears before checkout.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Most free online sources provide general information rather than personalized veterinary care, which is why virtual vet visits are typically a paid service.",
+          "condition": "From Vetster's 'Is there such a thing as a free online vet?' section.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Are online vets real veterinarians?",
+          "a": "Yes. Vetster states that online vets are licensed veterinarians who have completed accredited veterinary training, and that they complete the same education and licensing process as all veterinarians.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "When should I use an online vet instead of going in person?",
+          "a": "For quick answers when something has changed with your pet, after hours when physical clinics are closed, follow-up care, chronic condition management, preventive recommendations, medication questions and quality-of-life discussions - plus the everyday clusters Vetster lists: skin, ear and eye concerns, digestive and urinary changes, behaviour, mobility and ongoing care.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "When should I go straight to a clinic or emergency hospital?",
+          "a": "Immediately, if your pet has difficulty breathing, uncontrolled bleeding, collapses or seizes, shows severe or sudden pain, is suspected of poisoning, has suffered major trauma, or is unable to urinate. Vetster also states plainly that telehealth is not a substitute for emergency care.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can an online vet prescribe medication?",
+          "a": "Only when a valid vet-client-patient relationship is in place and the condition is appropriate for virtual care. Whether that relationship can be built over video depends on state rules, federal guidance often expects a real exam first, and prescribing is always the veterinarian's decision. The prescription then goes to the pharmacy you choose.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What can an online vet not do?",
+          "a": "They cannot perform a hands-on exam, and Vetster's own guidance puts conditions needing lab work or imaging, complex or serious illnesses, medications requiring close monitoring, higher-risk drugs and many controlled substances on the in-person side of the line.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-prescriptions",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Do I need my pet on camera during the appointment?",
+          "a": "Yes, for as much of the appointment as possible. Vetster explains that the vet relies on what they can see on screen, that having your pet present creates the basis for the veterinary-client-patient relationship, and that without your pet on screen the vet may be unable to diagnose or prescribe.",
+          "source_url": "https://vetster.com/en/wellness/how-to-prepare-for-your-online-vet-appointment",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there such a thing as a free online vet?",
+          "a": "General pet information is widely available for free, but Vetster states that personalized care from a licensed veterinarian is typically a paid service, because licensed veterinarians are legally responsible for the care they provide.",
+          "source_url": "https://vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "This page restates only Vetster's own published guidance - it is not veterinary advice and not a diagnosis. Checked 2026-09-26, source links attached to every line; re-read the official pages before you act. In an emergency, go to a clinic.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this page is built",
+          "html": "<p>The online vet vs in-person question is usually answered with opinions. This page answers it with one brand's published rules: Vetster runs both a telemedicine marketplace and a preparation guide written by its editorial team and verified by its own veterinarians, and it publishes exactly when it sends people to a clinic instead. Both columns below come from those pages - nothing is filled in from forums or comparison sites.</p><p>One honest limitation: the right-hand column is thinner than the left, because Vetster publishes its own side of the story and does not publish clinic prices or clinic opening hours. Those cells say <em>not published on the official Vetster pages checked for this row</em> rather than borrowing a number from somewhere else.</p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Online vet vs in-person - the conditions side by side"
+        },
+        {
+          "type": "section",
+          "h2": "The decision in one picture",
+          "html": "<p><strong>Run the urgent list first, everything else second.</strong> Vetster's seven emergency signs come before any other consideration, and its preparation guide repeats the principle: many people use virtual care precisely to find out whether their pet needs in-person or emergency care.</p><p><strong>Then split by what the vet can actually do through a screen.</strong> Symptoms, history, photos, movement on camera, medication questions and follow-ups travel well over video. Lab work, imaging, a hands-on exam and higher-risk prescribing do not - and Vetster's own two-column table draws that line for you.</p><p><img src=\"/assets/online-vet-vs-inperson.svg\" alt=\"Decision flow infographic: urgent signs mean go in person now, otherwise an online vet fits quick answers, after-hours questions, follow-ups, chronic care and preventive care, and a prescription needs a valid vet-client-patient relationship that depends on state rules\" width=\"100%\"></p>"
+        },
+        {
+          "type": "section",
+          "h2": "The prescription question, which is where the confusion lives",
+          "html": "<p>Three separate layers decide whether you leave an online visit with medication. First the relationship: almost every state requires a valid vet-client-patient relationship before any vet can prescribe, and Vetster says the open question is whether that relationship can be established over video. Second the federal picture: for many prescription medications, federal guidance expects the relationship to rest on a real exam or visit. Third the judgment: Vetster's guide says prescribing is always the veterinarian's decision, and a vet may still ask for a hands-on exam, lab work or imaging first.</p><p>If the prescription does happen, the pharmacy is your choice - Vetster states it is not a pharmacy and sends the script directly to the local or online pharmacy you pick, with the service fee shown as a labelled line item before checkout.</p>"
+        },
+        {
+          "type": "facts",
+          "h2": "Every line above with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Online vet vs in-person vet FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    }
+  ]
+}

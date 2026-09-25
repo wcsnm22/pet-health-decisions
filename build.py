@@ -476,8 +476,8 @@ def build() -> None:
                 "description": a["description"],
                 "url": canonical,
                 "inLanguage": site["locale"],
-                "datePublished": site["checked"],
-                "dateModified": site["checked"],
+                "datePublished": a.get("published") or site["checked"],
+                "dateModified": a.get("published") or site["checked"],
                 "author": {"@type": "Organization", "name": site["name"]},
                 "publisher": {"@type": "Organization", "name": site["name"]},
                 "mainEntityOfPage": canonical,
@@ -511,7 +511,8 @@ def build() -> None:
                         "@type": "ListItem",
                         "position": i + 1,
                         "name": c["name"],
-                        "url": page_url(site, c["url"]),
+                        # 列可以指向站内页（/slug）或官方外部页（https://...）原样使用
+                        "url": c["url"] if c["url"].startswith("http") else page_url(site, c["url"]),
                         "description": brands_by_path.get(c["url"], {}).get("short_answer", ""),
                     }
                     for i, c in enumerate(a["columns"])

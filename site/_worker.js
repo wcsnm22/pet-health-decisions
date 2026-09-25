@@ -1,7 +1,7 @@
 // ILANG
 // TYPE:worker ROLE:canonical-host-and-real-404
 const CANONICAL_HOST = "pet-health-decisions.pages.dev";
-const VALID_PATHS = new Set(["/", "/1800petmeds-online-pharmacy", "/about", "/assets/favicon.svg", "/assets/style.css", "/contact", "/cosequin-joint-supplement", "/embark-dna-test", "/privacy", "/robots.txt", "/sitemap.xml", "/vetster-online-vet"]);
+const VALID_PATHS = new Set(["/", "/1800petmeds-online-pharmacy", "/about", "/assets/favicon.svg", "/assets/online-vet-vs-inperson.svg", "/assets/style.css", "/assets/vetster-plan-compare.svg", "/contact", "/cosequin-joint-supplement", "/embark-dna-test", "/online-vet-vs-in-person", "/privacy", "/robots.txt", "/sitemap.xml", "/vetster-online-vet", "/vetster-review"]);
 
 export default {
   async fetch(request, env) {

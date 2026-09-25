@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" role="img" aria-label="Decision flow: urgent signs mean go in person now, otherwise an online vet fits quick answers, after-hours questions, follow-ups, chronic care and preventive care; a prescription needs a valid vet-client-patient relationship that depends on state rules">
+  <defs>
+    <marker id="arw3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Online vet or in-person vet? Vetster's own decision rules</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">One question first: are any of the seven urgent signs present? Everything else follows from that answer.</text>
+
+    <!-- start -->
+    <rect x="330" y="66" width="300" height="52" rx="14" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <text x="480" y="90" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">New symptom or question</text>
+    <text x="480" y="110" text-anchor="middle" font-size="13.5" fill="#475569">your pet is not quite right</text>
+
+    <line x1="480" y1="118" x2="480" y2="146" stroke="#64748b" stroke-width="2.5" marker-end="url(#arw3)"/>
+
+    <!-- urgent check -->
+    <rect x="150" y="150" width="660" height="92" rx="14" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+    <text x="480" y="176" text-anchor="middle" font-size="15.5" font-weight="700" fill="#9a3412">Any urgent sign? (the seven on Vetster's list)</text>
+    <text x="480" y="200" text-anchor="middle" font-size="13.5" fill="#7c2d12">difficulty breathing · uncontrolled bleeding · collapse or seizures · severe or sudden pain</text>
+    <text x="480" y="222" text-anchor="middle" font-size="13.5" fill="#7c2d12">suspected poisoning · major trauma · unable to urinate</text>
+
+    <!-- YES branch -->
+    <line x1="240" y1="242" x2="240" y2="286" stroke="#c2410c" stroke-width="2.5" marker-end="url(#arw3)"/>
+    <text x="252" y="270" font-size="14" font-weight="700" fill="#c2410c">YES</text>
+    <rect x="40" y="290" width="400" height="96" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="62" y="318" font-size="16" font-weight="700" fill="#7f1d1d">Go in person, now</text>
+    <text x="62" y="344" font-size="13.5" fill="#7f1d1d">Online vets are not a replacement for emergency</text>
+    <text x="62" y="366" font-size="13.5" fill="#7f1d1d">clinics; an online vet will direct you to care.</text>
+
+    <!-- NO branch -->
+    <line x1="720" y1="242" x2="720" y2="286" stroke="#64748b" stroke-width="2.5" marker-end="url(#arw3)"/>
+    <text x="732" y="270" font-size="14" font-weight="700" fill="#334155">NO</text>
+    <rect x="520" y="290" width="432" height="96" rx="14" fill="#ecfdf5" stroke="#047857" stroke-width="2"/>
+    <text x="542" y="318" font-size="16" font-weight="700" fill="#065f46">An online vet fits</text>
+    <text x="542" y="344" font-size="13.5" fill="#064e3b">quick answers · after hours · follow-up care · chronic</text>
+    <text x="542" y="366" font-size="13.5" fill="#064e3b">condition management · preventive care · medication questions</text>
+
+    <!-- prescription footnote row -->
+    <rect x="40" y="400" width="912" height="46" rx="12" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="62" y="420" font-size="13.5" fill="#0f172a">Prescription next step: a valid vet-client-patient relationship is required, and whether it can be built over video depends on state rules -</text>
+    <text x="62" y="438" font-size="13.5" fill="#0f172a">prescribing is always the veterinarian's decision, then the script goes to the pharmacy you choose.</text>
+
+    <text x="8" y="464" font-size="12" fill="#64748b">Source: vetster.com/en/wellness/online-vet-visits-how-virtual-veterinary-care-works · /online-vet-prescriptions · checked 2026-09-26</text>
+  </g>
+</svg>
