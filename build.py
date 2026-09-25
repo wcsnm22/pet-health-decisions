@@ -32,6 +32,7 @@ OFFICIAL_HOSTS = {
     "nutramax.com", "www.nutramax.com",
     "embarkvet.com", "www.embarkvet.com",
     "chewy.com", "www.chewy.com",
+    "dasuquin.com", "www.dasuquin.com",
 }
 
 # 文章内 compare/facts/faqs/cards 块的默认小标题（可用块内 "h2" 覆盖，null = 不出标题）

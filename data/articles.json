@@ -632,6 +632,645 @@
           "h2": "Every brand on this site, page by page"
         }
       ]
+    },
+    {
+      "slug": "buy-pet-prescription-meds-online",
+      "nav_label": "Buy Rx Meds Online",
+      "type": "tutorial",
+      "keyword": "buy pet medication online",
+      "published": "2026-09-26",
+      "title": "How to Buy Pet Prescription Meds Online Legally: Chewy and 1-800-PetMeds Steps and Vet Approval Rules",
+      "description": "How to buy pet prescription medication online legally, using only Chewy's and 1-800-PetMeds' own pages: both require a licensed vet's authorization, Chewy processes a received prescription in 24-48 hours and delivers in 3-5 days, 1-800-PetMeds prints standard delivery in 2-5 business days. Every figure sourced and checked 2026-09-26.",
+      "h1": "How to buy pet prescription meds online legally: the vet authorization step comes first",
+      "lede": "Quick answer: you cannot buy a prescription pet medication online legally without your veterinarian's authorization, and both pharmacies say so in their own words. Chewy Pharmacy states it can only dispense medication with a valid, patient-specific prescription from a licensed veterinarian; 1-800-PetMeds states that all prescription medications must have an authorization before they are dispensed. The buying itself is three steps: add the medication to the cart, enter your pet's and your vet clinic's details at checkout, and choose how the pharmacy gets the script - they contact your vet, or you mail a written one in. Then the clock: Chewy prints prescription processing within 24-48 hours after the pharmacy receives a valid script and delivery in 3-5 days once it is approved; 1-800-PetMeds prints vet approval required before shipment and standard delivery in 2-5 business days. Every number below was read from chewy.com and 1800petmeds.com on 2026-09-26.",
+      "stats": [
+        {
+          "value": "24-48 hrs",
+          "label": "Chewy's printed processing time after a valid prescription arrives"
+        },
+        {
+          "value": "3-5 days",
+          "label": "Chewy delivery window once the prescription is approved"
+        },
+        {
+          "value": "2-5 days",
+          "label": "1-800-PetMeds standard delivery, vet approval first"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Chewy Pharmacy",
+          "url": "https://www.chewy.com/app/content/pharmacy"
+        },
+        {
+          "name": "1-800-PetMeds",
+          "url": "https://www.1800petmeds.com/help.html"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Dispensing without the vet",
+          "cells": [
+            "No. Chewy Pharmacy can only dispense medication with a valid, patient-specific prescription from a licensed veterinarian.",
+            "No. All prescription medications must have an authorization before they are dispensed; written and faxed prescriptions are stored electronically and phone authorizations are recorded."
+          ],
+          "sources": [
+            "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Written script before you order",
+          "cells": [
+            "Not required. Chewy's FAQ says a written prescription is not needed when you place the order - at checkout you choose whether Chewy contacts your vet or you mail the script in.",
+            "not published on the official site for the ordering step; the help page states only that vet approval is required before shipment."
+          ],
+          "sources": [
+            "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+            ""
+          ]
+        },
+        {
+          "label": "How your vet authorizes",
+          "cells": [
+            "Enter your pet's information and your vet clinic's details at checkout, then pick an approval method: Chewy contacts the vet, or you mail the prescription.",
+            "Your veterinarian can call the pharmacy at 1-888-738-6331, or you or your vet can mail the prescription in with the phone number or order number."
+          ],
+          "sources": [
+            "https://www.chewy.com/app/content/pharmacy",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Where a paper prescription goes",
+          "cells": [
+            "Chewy Pharmacy, 3621 Fern Valley Rd., Louisville, KY 40219 - the original prescription, not a copy, with your order number. Gabapentin orders go to 360 Research Drive, Pittston, PA 18640.",
+            "PetMeds, Attn: Pharmacy, 420 S Congress Ave. #100, Delray Beach, FL 33445, including the pet parent's phone number or order number."
+          ],
+          "sources": [
+            "https://www.chewy.com/app/content/pharmacy",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Speed after approval",
+          "cells": [
+            "Delivery right to your door in 3-5 days once the prescription is approved; a mailed paper prescription typically ships within 1-2 days after Chewy receives it.",
+            "Standard delivery in 2-5 business days; for prescription items, vet approval is required before shipment."
+          ],
+          "sources": [
+            "https://www.chewy.com/app/content/pharmacy",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Processing time once the script arrives",
+          "cells": [
+            "Prescriptions are typically processed by the pharmacy within 24-48 hours after receipt of a valid prescription from the veterinarian.",
+            "not published on the official site"
+          ],
+          "sources": [
+            "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+            ""
+          ]
+        },
+        {
+          "label": "Who checks the medication",
+          "cells": [
+            "Chewy's licensed pharmacy team reviews the prescription medications in the order to make sure they are safe and accurate for your pet; the page says it sells the same FDA-approved meds as veterinary clinics.",
+            "PetMeds says it sells only U.S. FDA/EPA-approved medications - the same exact medications sold by your veterinarian - and that its products and facilities are regularly inspected by state agencies."
+          ],
+          "sources": [
+            "https://www.chewy.com/app/content/pharmacy",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Shipping cost",
+          "cells": [
+            "not published on the official pharmacy page checked for this row",
+            "Free shipping on orders over $49."
+          ],
+          "sources": [
+            "",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Talking to a pharmacist",
+          "cells": [
+            "Licensed pharmacists are available 24/7, 365 by call or chat at 877-977-3879 and by email at rx@chewy.com.",
+            "The help page publishes customer care hours of Mon-Fri 8am-7pm and Sat 9am-5:30pm Eastern; prescriptions are authorized by phone at 1-888-738-6331."
+          ],
+          "sources": [
+            "https://www.chewy.com/app/content/pharmacy",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        },
+        {
+          "label": "Refills for chronic conditions",
+          "cells": [
+            "Yes - with valid refills on file at Chewy Pharmacy you can set up Autoship for the medication.",
+            "The help page prints that a prescription item added to AutoShip triggers a vet-approval request before shipping and will not delay the existing AutoShip order."
+          ],
+          "sources": [
+            "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+            "https://www.1800petmeds.com/help.html"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Chewy Pharmacy can only dispense medication with a valid, patient-specific prescription from a licensed veterinarian.",
+          "condition": "Applies to every prescription item. If you select the option at checkout, Chewy contacts your vet to obtain that prescription for you.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "1-800-PetMeds does not dispense prescription medications without a veterinarian's authorization.",
+          "condition": "Stated in the help page FAQ: all prescription medications must have an authorization before they are dispensed, and phone authorizations are recorded.",
+          "source_url": "https://www.1800petmeds.com/help.html",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "A written prescription is not required to place a Chewy order.",
+          "condition": "You choose at checkout whether Chewy contacts your vet or you mail the script; the patient-specific prescription must still be on file before the pharmacy can dispense.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy processes a prescription within 24-48 hours after the pharmacy receives a valid prescription from the veterinarian.",
+          "condition": "The clock starts when the valid prescription arrives at the pharmacy, not when the order is placed.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy delivers in 3-5 days once the prescription is approved.",
+          "condition": "Printed on the Chewy Pharmacy page as the window after approval; the prescription item page separately prints that most prescriptions are delivered within 3-5 days.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy requires the original paper prescription - not a copy - plus the order number, mailed to 3621 Fern Valley Rd., Louisville, KY 40219.",
+          "condition": "Gabapentin orders are mailed to 360 Research Drive, Pittston, PA 18640 instead. Once Chewy receives the paper prescription the order typically ships within 1-2 days, and Chewy covers overnight shipping for it.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy Compounding Pharmacy is licensed in its resident state of Kentucky and in each state into which it ships compounded medications, and holds PCAB accreditation.",
+          "condition": "Applies to compounded medications; Chewy states that all compounding ingredients are sourced from FDA registered manufacturers and distributors.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "1-800-PetMeds requires vet approval before shipment on prescription items and prints standard delivery in 2-5 business days.",
+          "condition": "Shown in the shipping banner on the help page; free shipping applies on orders over $49.",
+          "source_url": "https://www.1800petmeds.com/help.html",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "1-800-PetMeds authorizations can be given by phone at 1-888-738-6331 or by mail to 420 S Congress Ave. #100, Delray Beach, FL 33445.",
+          "condition": "Include the pet parent's phone number or order number with any prescription mailed to the pharmacy.",
+          "source_url": "https://www.1800petmeds.com/help.html",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "1-800-PetMeds states it sells only U.S. FDA/EPA-approved medications and that its products and facilities are regularly inspected by state agencies.",
+          "condition": "Answer given on the help page to the question of why buy from an online pharmacy; the page says the products are the same exact medications sold by your veterinarian.",
+          "source_url": "https://www.1800petmeds.com/help.html",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy's licensed pharmacy team reviews the prescription medications in an order for safety and accuracy.",
+          "condition": "Stated on the pharmacy page, which also says Chewy sells the same FDA-approved meds as veterinary clinics.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Chewy's licensed pharmacists are available 24 hours a day, 365 days a year by call or chat at 877-977-3879 and by email at rx@chewy.com.",
+          "condition": "Printed on the Chewy Pharmacy page as the contact route for prescription questions.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "1-800-PetMeds publishes customer care hours of Mon-Fri 8am-7pm and Sat 9am-5:30pm Eastern on its help page.",
+          "condition": "The page notes that holidays may affect opening hours and tells readers to contact their pet's veterinarian for urgent or emergency care.",
+          "source_url": "https://www.1800petmeds.com/help.html",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is it legal to buy pet medication online?",
+          "a": "Yes, when the pharmacy dispenses against a valid prescription from a licensed veterinarian - that is the legal line both pharmacies describe. Chewy Pharmacy states it can only dispense medication with a valid, patient-specific prescription from a licensed veterinarian, and its compounding pharmacy states it is licensed in Kentucky and in every state it ships compounded medication to. 1-800-PetMeds states all prescription medications must have an authorization before they are dispensed.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Do I need the prescription in hand before I order?",
+          "a": "At Chewy, no. Its FAQ says a written prescription is not required when you place the order; you pick at checkout whether Chewy contacts your vet or you mail the script, and the prescription has to be on file before dispensing. 1-800-PetMeds does not publish that ordering detail on the pages checked - it publishes that vet approval is required before shipment, so we leave that cell empty rather than guessing.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How long does the whole order take?",
+          "a": "Chewy prints two windows: prescriptions are typically processed within 24-48 hours after the pharmacy receives a valid prescription, and delivery takes 3-5 days once the prescription is approved (a mailed paper prescription typically ships within 1-2 days after receipt). 1-800-PetMeds prints standard delivery in 2-5 business days with vet approval required before shipment.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What if my vet gives me a paper prescription?",
+          "a": "At Chewy, place the order and choose mail-in prescription at checkout, then send the original - not a copy - with your order number to Chewy Pharmacy, 3621 Fern Valley Rd., Louisville, KY 40219 (Gabapentin orders: 360 Research Drive, Pittston, PA 18640); Chewy covers overnight shipping for it. At 1-800-PetMeds, mail it to Attn: Pharmacy, 420 S Congress Ave. #100, Delray Beach, FL 33445 with your phone or order number, or have your vet call 1-888-738-6331.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Are these the same drugs my vet sells?",
+          "a": "Chewy says it sells the same FDA-approved meds as veterinary clinics and that its licensed pharmacy team checks each medication in the order. 1-800-PetMeds says it sells only U.S. FDA/EPA-approved medications - the same exact medications sold by your veterinarian - and that its products and facilities are regularly inspected by state agencies.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can I set up refills for a chronic condition?",
+          "a": "Chewy says that with valid refills on file at Chewy Pharmacy you can set up Autoship for the medication. 1-800-PetMeds' help page describes adding a prescription item to AutoShip: the pharmacy reaches out to your veterinarian for approval before shipping, and that request does not delay the existing AutoShip order.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does compounded medication mean?",
+          "a": "Chewy defines compounding as licensed pharmacists mixing or changing one or more FDA-approved medications to make a customized medication for a pet - for example a liquid instead of a tablet, or a strength that is not commercially available. Chewy states that all compounding ingredients are sourced from FDA registered manufacturers and distributors.",
+          "source_url": "https://www.chewy.com/sildenafil-compounded-capsule-dogs/dp/316936",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does this page not cover?",
+          "a": "It covers only what Chewy and 1-800-PetMeds publish on their own pages - authorization rules, mail-in addresses, processing and delivery windows, fees the pages actually print, and contact hours - each with its source link and a check date of 2026-09-26. It does not quote prices from marketplaces, does not compare every online pet pharmacy, and is not veterinary advice.",
+          "source_url": "https://www.chewy.com/app/content/pharmacy",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Editorial guide built only from Chewy's and 1-800-PetMeds' own published pages - not veterinary advice and not a paid endorsement. Shipping windows and policies change, so every figure carries its official source link and a check date of 2026-09-26; re-read the official page before you order. Medication decisions belong with your veterinarian.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this guide is built",
+          "html": "<p>There is no independent licence-check database for online pet pharmacies that we can quote honestly, so this page does not invent one. It reads two pharmacies' own words: Chewy's pharmacy page and the FAQ printed on a Chewy prescription item, plus the 1-800-PetMeds help page. Every row below links to the page it came from and carries a check date.</p><p>Where a pharmacy does not publish something, the cell says <em>not published on the official site</em>. Two of those exist on purpose: Chewy does not print a shipping price on the pharmacy page we read, and 1-800-PetMeds does not print how long a received prescription takes to process.</p>"
+        },
+        {
+          "type": "section",
+          "h2": "The three steps, then the clock",
+          "html": "<p><strong>The order itself is short; the authorization is the part that makes it legal.</strong> Chewy publishes the sequence as three steps: add your pet's meds with a click, enter a few quick details at checkout (your pet's information and your vet clinic's details so the pharmacy can verify the prescription with your vet), and let the pharmacy do the rest - its licensed pharmacy team reviews the prescription medications in the order to make sure they are safe and accurate for your pet.</p><p><strong>Then two clocks run.</strong> Chewy prints a 24-48 hour processing window after the pharmacy receives a valid prescription and a 3-5 day delivery window after approval. 1-800-PetMeds prints the approval gate first - vet approval is required before shipment - and then standard delivery in 2-5 business days, with free shipping on orders over $49.</p><p><img src=\"/assets/rx-order-flow.svg\" alt=\"Infographic of buying pet prescription meds online legally: add the medication, enter pet and vet details at checkout, get the vet's authorization, then Chewy processes in 24-48 hours and delivers in 3-5 days while 1-800-PetMeds requires vet approval before shipment and prints 2-5 business day delivery with free shipping over 49 dollars\" width=\"100%\"></p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Chewy vs 1-800-PetMeds: what each pharmacy publishes"
+        },
+        {
+          "type": "section",
+          "h2": "The four things people get wrong",
+          "html": "<p><strong>Approval is not shipping.</strong> 1-800-PetMeds puts vet approval before shipment in the same sentence as its delivery window, so a fast shipping estimate means nothing until your vet signs off. Chewy separates them too: processing time starts when the valid prescription reaches the pharmacy, delivery time starts when it is approved.</p><p><strong>Mail-in means the original.</strong> Chewy states plainly that it requires the original paper prescription, not a copy, and that your order number must be on it to avoid delays - and Gabapentin orders go to a different address in Pittston, PA. 1-800-PetMeds asks for your phone number or order number on anything mailed to its Delray Beach pharmacy.</p><p><strong>Compounded is not the same as manufactured.</strong> Chewy defines compounding as licensed pharmacists mixing or changing one or more FDA-approved medications, and it states its compounding pharmacy is licensed in Kentucky and in each state it ships to, with PCAB accreditation.</p><p><strong>Authorization is recorded.</strong> 1-800-PetMeds stores written and faxed prescriptions electronically and records phone authorizations, which is why the vet can call the pharmacy line directly instead of sending you paperwork.</p>"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Buying pet prescription meds online FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    },
+    {
+      "slug": "best-joint-supplement-for-dogs",
+      "nav_label": "Joint Supplements",
+      "type": "best",
+      "keyword": "best joint supplement for dogs",
+      "published": "2026-09-26",
+      "title": "Best Joint Supplements for Dogs: Vet-Backed Picks with Published Label Figures (Cosequin, Dasuquin)",
+      "description": "Best joint supplements for dogs chosen from what the brands publish themselves: Cosequin soft chews at 600 mg glucosamine and 300 mg chondroitin per chew, Dasuquin at 600-900 mg glucosamine with ASU, six picks with every milligram sourced to cosequin.com or dasuquin.com, checked 2026-09-26.",
+      "h1": "Best joint supplements for dogs: six picks judged on the label numbers the brands actually publish",
+      "lede": "Quick answer: nobody can rank dog joint supplements honestly without lab tests, so this list does not pretend to. It picks six products from the two brands that publish full ingredient and dosing tables on their own sites - Cosequin and Dasuquin, both from Nutramax - using the three checks Cosequin itself tells buyers to run: talk to your veterinarian, review the ingredients, check the manufacturing standards. The shortlist: Cosequin Soft Chews with MSM and Omega-3 for everyday use (600 mg glucosamine, 400 mg MSM, 300 mg chondroitin per chew), Cosequin Chewable Tablets with MSM for dogs that will not take a soft chew, Cosequin Soft Chews for Small Dogs for 5-25 lb dogs (260 mg glucosamine per chew), Dasuquin Soft Chews for the ASU formula, Dasuquin Soft Chews for Senior Dogs, and Dasuquin Advanced when your veterinarian wants the vet-exclusive formula. No price appears anywhere, because neither official site publishes one. Every figure below was read from cosequin.com and dasuquin.com on 2026-09-26.",
+      "stats": [
+        {
+          "value": "600 mg",
+          "label": "glucosamine HCl per Cosequin soft chew and per Dasuquin soft chew for small-to-medium dogs"
+        },
+        {
+          "value": "80+",
+          "label": "quality checks per batch both brands say they run"
+        },
+        {
+          "value": "No price",
+          "label": "neither official site publishes prices - both say where to buy"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Cosequin",
+          "url": "/cosequin-joint-supplement"
+        },
+        {
+          "name": "Dasuquin",
+          "url": "https://www.dasuquin.com/products/"
+        }
+      ],
+      "rows": [
+        {
+          "label": "The recommendation claim each brand prints",
+          "cells": [
+            "Printed as the #1 veterinarian recommended retail joint health supplement brand, footnoted as a survey among small animal veterinarians who recommended oral joint health supplements, among retail brands.",
+            "Printed as the #1 veterinarian recommended joint health supplement brand on its dog product pages, with a survey footnote."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/for-dogs/about",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews"
+          ]
+        },
+        {
+          "label": "Glucosamine HCl per serving",
+          "cells": [
+            "600 mg (FCHG49) per soft chew for a 10-29 lb dog and per chewable tablet; 260 mg in the Small Dogs soft chew.",
+            "600 mg per soft chew in the small-to-medium formula (under 60 lbs) and 900 mg in the large formula (60 lbs and over)."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews"
+          ]
+        },
+        {
+          "label": "Chondroitin sulfate per serving",
+          "cells": [
+            "300 mg sodium chondroitin sulfate (TRH122) per soft chew and per chewable tablet; 130 mg in the Small Dogs soft chew.",
+            "250 mg per soft chew for small-to-medium dogs and 350 mg for large dogs."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews"
+          ]
+        },
+        {
+          "label": "What it adds beyond glucosamine and chondroitin",
+          "cells": [
+            "MSM 400 mg, total omega-3 fatty acids 70 mg and EPA + DHA 55 mg per soft chew in the omega-3 formula; the chewable tablet adds manganese 3 mg.",
+            "Avocado/Soybean Unsaponifiables (ASU, NMX1000) 45 mg, Boswellia serrata extract 20 mg and green tea extract 16 mg per soft chew for small-to-medium dogs."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews"
+          ]
+        },
+        {
+          "label": "Large-dog dosing (60 lbs and over)",
+          "cells": [
+            "3 soft chews a day for the initial 4-6 weeks, then 1-2 a day for maintenance, on the weight table printed for the omega-3 soft chew.",
+            "Sold as a separate Large Dogs formula (60 lbs and over) at 900 mg glucosamine and 800 mg MSM per chew rather than a higher chew count."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews-w-msm"
+          ]
+        },
+        {
+          "label": "Small-dog option",
+          "cells": [
+            "Cosequin for Small Dogs soft chews: 45 count, 260 mg glucosamine, 175 mg MSM, 130 mg chondroitin and 30 mg total omega-3s per chew, dosed 1 a day for a 5-10 lb dog at first.",
+            "not published on the official site as a separate small-dog formula - Dasuquin's own product navigation lists no small-dog product."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/small-dog/soft-chew/omega-3",
+            ""
+          ]
+        },
+        {
+          "label": "Senior-dog product",
+          "cells": [
+            "Cosequin for Senior Dogs soft chews: 600 mg glucosamine, 400 mg MSM, 300 mg chondroitin, 250 mg yeast extract (a source of beta (1,3)/(1,6) glucan) and 70 mg total omega-3s per chew.",
+            "Dasuquin Soft Chews for Senior Dogs: 600 mg glucosamine, 400 mg MSM, 250 mg chondroitin, a 106 mg proprietary blend of alpha-lipoic acid, Boswellia serrata and green tea, plus 80 mg total omega-3s per chew."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/senior",
+            "https://www.dasuquin.com/product/dasuquin-senior-soft-chews"
+          ]
+        },
+        {
+          "label": "Veterinarian-exclusive formula",
+          "cells": [
+            "not published on the official site as a vet-exclusive line - Cosequin lists its dog products as retail formulas.",
+            "Dasuquin Advanced Soft Chews are labelled a veterinarian exclusive formulation, and the about page says that formula is available from your veterinarian."
+          ],
+          "sources": [
+            "",
+            "https://www.dasuquin.com/product/dasuquin-advanced-soft-chews"
+          ]
+        },
+        {
+          "label": "Quality checks",
+          "cells": [
+            "Over 80 quality checks are conducted per batch of Cosequin products.",
+            "Over 80 quality checks are conducted per batch of Dasuquin products."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/for-dogs/about",
+            "https://www.dasuquin.com/product/dasuquin-senior-soft-chews"
+          ]
+        },
+        {
+          "label": "Where it is made",
+          "cells": [
+            "Manufactured in the United States with globally sourced ingredients.",
+            "Manufactured in the United States with globally sourced ingredients."
+          ],
+          "sources": [
+            "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+            "https://www.dasuquin.com/product/dasuquin-soft-chews-w-msm"
+          ]
+        },
+        {
+          "label": "Price on the official site",
+          "cells": [
+            "not published on the official site - the product pages show a SHOP HERE button instead of a price figure.",
+            "not published on the official site - the catalog shows a WHERE TO BUY link instead of a price figure."
+          ],
+          "sources": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Cosequin's own guide tells buyers to run three checks: talk to your veterinarian, review the ingredients, and check the manufacturing standards.",
+          "condition": "The page says to schedule a visit with your veterinarian before deciding which joint supplement to give your dog, to research what is in the product, and to understand how supplements are manufactured and tested.",
+          "source_url": "https://www.cosequin.com/joint-supplement/for-dogs/about",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin Soft Chews with MSM and Omega-3 contain 600 mg glucosamine hydrochloride (FCHG49), 400 mg MSM, 300 mg sodium chondroitin sulfate (TRH122), 70 mg total omega-3s and 55 mg EPA + DHA per soft chew.",
+          "condition": "Per-serving figures printed on the product page for the 120 and 60 soft chew counts.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin's weight table doses that soft chew at 1 a day for a 10-29 lb dog during the initial 4-6 weeks and 1 every other day after, 2 a day then 1 for 30-59 lb, and 3 a day then 1-2 for 60 lb and over.",
+          "condition": "For dogs under 10 lbs the same page points to Cosequin for Small Dogs instead.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin Chewable Tablets with MSM contain 600 mg glucosamine, 300 mg chondroitin sulfate, 250 mg MSM and 3 mg manganese per tablet, and are sold in 60, 132 and 250 tablet counts.",
+          "condition": "Tablet dosing: half a tablet every other day up to 15 lbs initially, then half every other day; 1 then half a tablet for 16-30 lbs; 2 then 1 for 31-60 lbs; 3 then 1-2 over 60 lbs.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/chewable-tablet/msm",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin for Small Dogs soft chews contain 260 mg glucosamine, 175 mg MSM, 130 mg chondroitin and 30 mg total omega-3s (EPA + DHA 25 mg) per chew in a 45 count.",
+          "condition": "Dosing: 1 a day for a 5-10 lb dog during the initial 4-6 weeks then 1 every other day; 2 a day then 1 for an 11-25 lb dog.",
+          "source_url": "https://www.cosequin.com/joint-supplement/small-dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin for Senior Dogs soft chews add 250 mg yeast extract (a source of beta (1,3)/(1,6) glucan) to the 600 mg glucosamine, 400 mg MSM, 300 mg chondroitin and 70 mg omega-3 base.",
+          "condition": "The page says the beta-glucan is included for immune support alongside joint health support.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/soft-chew/senior",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin says it has over 25 unique formulas for dogs, cats and horses and runs over 80 quality checks per batch of product.",
+          "condition": "Both counts are printed on the Cosequin homepage; the brand also says it has provided joint health support for over 25 years.",
+          "source_url": "https://www.cosequin.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Cosequin's official site publishes no prices: the homepage lists products and a Where to Buy call to action instead of price figures.",
+          "condition": "Re-read on the check date; this page therefore shows no Cosequin price rather than borrowing one from a marketplace.",
+          "source_url": "https://www.cosequin.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin Soft Chews contain 600 mg glucosamine, 250 mg chondroitin, 45 mg ASU powder, 20 mg Boswellia serrata extract and 16 mg green tea extract per chew for small-to-medium dogs, and 900/350/90/40/32 mg for large dogs.",
+          "condition": "The page notes Dasuquin contains FCHG49 glucosamine, TRH122 sodium chondroitin and NMX1000 avocado/soybean unsaponifiables under proprietary veterinary researched specifications; counts are 84 for small-to-medium and 84 or 150 for large.",
+          "source_url": "https://www.dasuquin.com/product/dasuquin-soft-chews",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin With MSM Soft Chews contain 600 mg glucosamine, 400 mg MSM, 250 mg chondroitin, 60 mg total omega-3s and 50 mg EPA + DHA per chew for small-to-medium dogs, and 900/800/350/90/75 mg for large dogs.",
+          "condition": "Directions say to consult your veterinarian to determine which formula is right for your dog; small/medium is sold in 84 count, large in 84 and 150 count.",
+          "source_url": "https://www.dasuquin.com/product/dasuquin-soft-chews-w-msm",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin Soft Chews for Senior Dogs contain 600 mg glucosamine, 400 mg MSM, 250 mg chondroitin, a 106 mg proprietary blend of alpha-lipoic acid, Boswellia serrata and green tea, 80 mg total omega-3s and 65 mg EPA + DHA per chew for small-to-medium dogs.",
+          "condition": "For large dogs the same page prints 900 mg glucosamine, 800 mg MSM, 350 mg chondroitin, a 212 mg blend and 100 mg total omega-3s; dosing is 1 chew a day for 10-29 lb, 2 then 1 for 30-59 lb and 2 then 1 for 60-120 lb.",
+          "source_url": "https://www.dasuquin.com/product/dasuquin-senior-soft-chews",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin Advanced Soft Chews are labelled a veterinarian exclusive formulation, enhanced with a proprietary blend that includes turmeric, alpha-lipoic acid, MSM and Boswellia serrata extract.",
+          "condition": "Dasuquin's about page says the Advanced formula is available from your veterinarian.",
+          "source_url": "https://www.dasuquin.com/product/dasuquin-advanced-soft-chews",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin's about page states that avocado/soybean unsaponifiables work synergistically with glucosamine and chondroitin, and that research has shown the three together work better than glucosamine and chondroitin sulfate alone.",
+          "condition": "Brand-published claim on dasuquin.com's own about page, reproduced here as the brand's wording rather than as an independent finding.",
+          "source_url": "https://www.dasuquin.com/about",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Dasuquin says its joint health supplements are backed by science with over 80 quality checks conducted per batch, manufactured in the United States with globally sourced ingredients.",
+          "condition": "Printed on the senior soft chew page and the With MSM soft chew page.",
+          "source_url": "https://www.dasuquin.com/product/dasuquin-senior-soft-chews",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What is the best joint supplement for dogs?",
+          "a": "There is no independent ranking to quote, so this page picks from what the brands publish: Cosequin Soft Chews with MSM and Omega-3 for everyday use, Cosequin Chewable Tablets with MSM for dogs that prefer a tablet, Cosequin for Small Dogs for 5-25 lb dogs, Dasuquin Soft Chews for the ASU formula, Dasuquin Soft Chews for Senior Dogs and Dasuquin Advanced when your vet wants the veterinarian-exclusive formula. Cosequin's own guide says the decision starts with a visit to your veterinarian.",
+          "source_url": "https://www.cosequin.com/joint-supplement/for-dogs/about",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much glucosamine does my dog need?",
+          "a": "Both brands dose by body weight rather than a single number. Cosequin's table gives 1 soft chew a day (600 mg glucosamine) for a 10-29 lb dog for the first 4-6 weeks, then 1 every other day; 2 a day then 1 for 30-59 lb; 3 a day then 1-2 for 60 lb and over. Dasuquin instead sells a small-to-medium formula at 600 mg per chew and a large formula at 900 mg per chew. Your veterinarian sets the final amount.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Do I have to ask my vet first?",
+          "a": "Both brands say so in their own words. Cosequin's guide says to schedule a visit with your veterinarian before deciding which joint supplement to give your dog, because the vet will evaluate your dog and provide a recommendation for your pet's needs. Dasuquin's directions say to consult your veterinarian to determine which formula is right for your dog.",
+          "source_url": "https://www.cosequin.com/joint-supplement/for-dogs/about",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Which ingredients should I look for?",
+          "a": "Cosequin's guide tells buyers to research what is in the product and names high-quality ingredients like glucosamine and chondroitin sulfate as the ones that help support joint health. Both products carry those two; Cosequin adds MSM, omega-3s and (in the chewable) manganese, while Dasuquin adds avocado/soybean unsaponifiables, Boswellia serrata extract and green tea extract.",
+          "source_url": "https://www.cosequin.com/joint-supplement/for-dogs/about",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How long does the label say to give it?",
+          "a": "Both brands publish an initial loading period of 4-6 weeks followed by a maintenance level - for example Cosequin's soft chew drops from 2 a day to 1 a day for a 30-59 lb dog after the initial phase, and Dasuquin's senior table does the same. That is the brands' own instruction window; it is not a promise of results and not a substitute for your veterinarian's advice.",
+          "source_url": "https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much do these cost?",
+          "a": "Cosequin's official site publishes no prices: the homepage lists products and a Where to Buy call to action instead of price figures, and each product page ends in a SHOP HERE button. Dasuquin's catalog does the same with a WHERE TO BUY link. This page therefore shows no prices rather than filling the gap with marketplace numbers.",
+          "source_url": "https://www.cosequin.com/",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Which one for a small dog or a senior dog?",
+          "a": "For a small dog, Cosequin's omega-3 soft chew page says dogs under 10 lbs should use Cosequin for Small Dogs - a 45 count with 260 mg glucosamine per chew, dosed 1 a day for a 5-10 lb dog initially and 1 every other day after the first 4-6 weeks. For senior dogs both brands publish a dedicated formula: Cosequin for Senior Dogs adds beta-glucans, and Dasuquin for Senior Dogs adds alpha-lipoic acid plus 80 mg of omega-3s per chew.",
+          "source_url": "https://www.cosequin.com/joint-supplement/small-dog/soft-chew/omega-3",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does this list check, and what does it not check?",
+          "a": "It checks only what Cosequin and Dasuquin publish on their own pages - per-serving ingredient milligrams, weight-based dosing tables, quality-check counts, manufacturing claims, availability and the absence of prices - each with a source link and a check date of 2026-09-26. It does not run lab tests, does not rank the whole market (many brands publish no usable label data on their own sites) and does not quote marketplace prices.",
+          "source_url": "https://www.dasuquin.com/products/",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Editorial list built only from Cosequin's and Dasuquin's own published pages - not veterinary advice and not a paid endorsement. Formulas and prices change, so every figure carries its official source link and a check date of 2026-09-26; re-read the official page before you buy. Supplement decisions for a dog with pain or mobility problems belong with your veterinarian.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this list is built",
+          "html": "<p>There is no independent test score for dog joint supplements that we can quote, and we will not invent one. So this list uses a narrower, honest rule: a product only appears if its own brand publishes the per-serving ingredient milligrams and the weight-based dosing table on an official page, because that is what you can actually verify before buying. Two brands pass that test today - Cosequin and Dasuquin, both from Nutramax - and this page reads only cosequin.com and dasuquin.com.</p><p>The selection criteria are not ours either. Cosequin's own buying guide says three things: talk to your veterinarian, review the ingredients, and check the manufacturing standards. Every pick below is scored against those three, and the numbers in the table are copied from the label pages with a link and a check date.</p><p>One thing this page deliberately leaves out: price. Neither official site publishes one - Cosequin ends each product in a SHOP HERE button, Dasuquin in a WHERE TO BUY link - so no price figure appears here rather than a marketplace number dressed up as an official one.</p>"
+        },
+        {
+          "type": "section",
+          "h2": "The six picks",
+          "html": "<p><strong>Start with the form your dog will actually eat, then read the milligrams.</strong> The label numbers below are per soft chew or per tablet as published.</p><table><thead><tr><th>Pick</th><th>Why it earns the slot (published figures)</th><th>Official page</th></tr></thead><tbody><tr><td data-th=\"Pick\"><strong>Best everyday soft chew</strong><br>Cosequin Soft Chews with MSM and Omega-3</td><td data-th=\"Why\">600 mg glucosamine (FCHG49), 400 mg MSM, 300 mg chondroitin (TRH122), 70 mg total omega-3s (EPA + DHA 55 mg) per chew. Dosed 1 a day for a 10-29 lb dog for 4-6 weeks, then 1 every other day. 60 or 120 count.</td><td data-th=\"Official page\"><a href=\"https://www.cosequin.com/joint-supplement/dog/soft-chew/omega-3\" rel=\"nofollow noopener\" target=\"_blank\">cosequin.com soft chew</a></td></tr><tr><td data-th=\"Pick\"><strong>Best chewable tablet</strong><br>Cosequin Chewable Tablets with MSM</td><td data-th=\"Why\">600 mg glucosamine, 300 mg chondroitin, 250 mg MSM and 3 mg manganese per tablet; dosing runs half a tablet to 3 tablets by weight. Sold in 60, 132 and 250 counts.</td><td data-th=\"Official page\"><a href=\"https://www.cosequin.com/joint-supplement/dog/chewable-tablet/msm\" rel=\"nofollow noopener\" target=\"_blank\">cosequin.com chewable</a></td></tr><tr><td data-th=\"Pick\"><strong>Best for small dogs</strong><br>Cosequin for Small Dogs Soft Chews</td><td data-th=\"Why\">260 mg glucosamine, 175 mg MSM, 130 mg chondroitin, 30 mg omega-3s per chew in a 45 count; the omega-3 page points dogs under 10 lbs here. Dosed 1 a day for 5-10 lb, then 1 every other day.</td><td data-th=\"Official page\"><a href=\"https://www.cosequin.com/joint-supplement/small-dog/soft-chew/omega-3\" rel=\"nofollow noopener\" target=\"_blank\">cosequin.com small dogs</a></td></tr><tr><td data-th=\"Pick\"><strong>Best ASU formula</strong><br>Dasuquin Soft Chews</td><td data-th=\"Why\">600 mg glucosamine, 250 mg chondroitin, 45 mg ASU, 20 mg Boswellia serrata and 16 mg green tea extract per chew (small-to-medium dogs); the large formula goes to 900 mg glucosamine.</td><td data-th=\"Official page\"><a href=\"https://www.dasuquin.com/product/dasuquin-soft-chews\" rel=\"nofollow noopener\" target=\"_blank\">dasuquin.com soft chews</a></td></tr><tr><td data-th=\"Pick\"><strong>Best for senior dogs</strong><br>Dasuquin Soft Chews for Senior Dogs</td><td data-th=\"Why\">600 mg glucosamine, 400 mg MSM, 250 mg chondroitin, a 106 mg blend of alpha-lipoic acid, Boswellia and green tea, plus 80 mg omega-3s per chew; 1 a day for 10-29 lb, 2 then 1 for 30-59 lb.</td><td data-th=\"Official page\"><a href=\"https://www.dasuquin.com/product/dasuquin-senior-soft-chews\" rel=\"nofollow noopener\" target=\"_blank\">dasuquin.com senior</a></td></tr><tr><td data-th=\"Pick\"><strong>Best when the vet wants the strong line</strong><br>Dasuquin Advanced Soft Chews</td><td data-th=\"Why\">Labelled a veterinarian exclusive formulation and described on Dasuquin's about page as available from your veterinarian - the one pick here you cannot simply buy retail.</td><td data-th=\"Official page\"><a href=\"https://www.dasuquin.com/product/dasuquin-advanced-soft-chews\" rel=\"nofollow noopener\" target=\"_blank\">dasuquin.com advanced</a></td></tr></tbody></table>"
+        },
+        {
+          "type": "compare",
+          "h2": "Cosequin vs Dasuquin - published label figures only"
+        },
+        {
+          "type": "section",
+          "h2": "Reading the labels in one picture",
+          "html": "<p><strong>The two brands sit in the same weight class, and the difference is what they add.</strong> Both start around 600 mg of glucosamine hydrochloride per soft chew for a small-to-medium dog, with chondroitin at 300 mg for Cosequin and 250 mg for Dasuquin. Dasuquin publishes a separate large-dog chew at 900 mg rather than telling you to feed more chews, while Cosequin keeps one chew and moves the chew count up the weight table.</p><p><strong>The second line is where the formulas split.</strong> Cosequin spends it on MSM and omega-3s; Dasuquin spends it on ASU, Boswellia serrata and green tea extract. Neither is a verdict - it is just what the labels say, and your vet picks the one that fits your dog's history.</p><p><img src=\"/assets/joint-label-compare.svg\" alt=\"Bar chart of published glucosamine and chondroitin milligrams per soft chew: Cosequin 600 and 300 mg, Cosequin Small Dogs 260 and 130 mg, Dasuquin small-to-medium 600 and 250 mg, Dasuquin large 900 and 350 mg, plus Cosequin's three buying checks\" width=\"100%\"></p>"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Best joint supplement for dogs - FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
     }
   ]
 }

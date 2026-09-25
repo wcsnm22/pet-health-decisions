@@ -22,8 +22,9 @@ if cn:
 # (2) every fact + faq has official source + check date
 official = {"vetster.com", "www.vetster.com", "1800petmeds.com", "www.1800petmeds.com",
             "cosequin.com", "www.cosequin.com", "nutramax.com", "www.nutramax.com",
-            "embarkvet.com", "www.embarkvet.com", "chewy.com", "www.chewy.com"}
-OFFICIAL_LINK = r'href="https://(?:www\.)?(?:vetster|1800petmeds|cosequin|nutramax|embarkvet|chewy)[^"]*"'
+            "embarkvet.com", "www.embarkvet.com", "chewy.com", "www.chewy.com",
+            "dasuquin.com", "www.dasuquin.com"}
+OFFICIAL_LINK = r'href="https://(?:www\.)?(?:vetster|1800petmeds|cosequin|nutramax|embarkvet|chewy|dasuquin)[^"]*"'
 n = bad = offsite = 0
 for b in data["brands"]:
     for f in b["facts"] + b["faqs"]:

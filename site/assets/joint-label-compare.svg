@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" role="img" aria-label="Infographic: published glucosamine and chondroitin milligrams per soft chew - Cosequin soft chew 600 and 300 milligrams, Cosequin small dogs 260 and 130, Dasuquin small to medium dogs 600 and 250, Dasuquin large dogs 900 and 350, plus the three checks Cosequin tells buyers to run: talk to your veterinarian, review the ingredients, check the manufacturing standards">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">What the labels publish, per soft chew</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Glucosamine HCl vs sodium chondroitin sulfate, per soft chew. Read from the brand pages 2026-09-26.</text>
+
+    <!-- legend -->
+    <rect x="700" y="34" width="16" height="16" rx="3" fill="#0f172a"/>
+    <text x="722" y="47" font-size="12.5" fill="#334155">glucosamine HCl</text>
+    <rect x="836" y="34" width="16" height="16" rx="3" fill="#94a3b8"/>
+    <text x="858" y="47" font-size="12.5" fill="#334155">chondroitin</text>
+
+    <!-- bars: scale 0.6 px per mg, x0 = 300 -->
+    <g>
+      <text x="8" y="96" font-size="13.5" font-weight="600" fill="#0f172a">Cosequin soft chews (10-29 lb dog)</text>
+      <rect x="300" y="78" width="360" height="22" rx="5" fill="#0f172a"/>
+      <text x="668" y="94" font-size="13" fill="#0f172a">600 mg</text>
+      <rect x="300" y="104" width="180" height="14" rx="5" fill="#94a3b8"/>
+      <text x="488" y="116" font-size="12.5" fill="#475569">300 mg chondroitin</text>
+
+      <text x="8" y="152" font-size="13.5" font-weight="600" fill="#0f172a">Cosequin for Small Dogs (5-25 lb)</text>
+      <rect x="300" y="134" width="156" height="22" rx="5" fill="#0f172a"/>
+      <text x="464" y="150" font-size="13" fill="#0f172a">260 mg</text>
+      <rect x="300" y="160" width="78" height="14" rx="5" fill="#94a3b8"/>
+      <text x="386" y="172" font-size="12.5" fill="#475569">130 mg chondroitin</text>
+
+      <text x="8" y="208" font-size="13.5" font-weight="600" fill="#0f172a">Dasuquin soft chews (under 60 lb)</text>
+      <rect x="300" y="190" width="360" height="22" rx="5" fill="#0f172a"/>
+      <text x="668" y="206" font-size="13" fill="#0f172a">600 mg</text>
+      <rect x="300" y="216" width="150" height="14" rx="5" fill="#94a3b8"/>
+      <text x="458" y="228" font-size="12.5" fill="#475569">250 mg chondroitin</text>
+
+      <text x="8" y="264" font-size="13.5" font-weight="600" fill="#0f172a">Dasuquin soft chews (60 lb and over)</text>
+      <rect x="300" y="246" width="540" height="22" rx="5" fill="#0f172a"/>
+      <text x="848" y="262" font-size="13" fill="#0f172a">900 mg</text>
+      <rect x="300" y="272" width="210" height="14" rx="5" fill="#94a3b8"/>
+      <text x="518" y="284" font-size="12.5" fill="#475569">350 mg chondroitin</text>
+    </g>
+
+    <!-- scale -->
+    <line x1="300" y1="300" x2="840" y2="300" stroke="#94a3b8" stroke-width="1.5"/>
+    <g font-size="11.5" fill="#64748b">
+      <line x1="300" y1="300" x2="300" y2="306" stroke="#94a3b8"/>
+      <text x="292" y="318" text-anchor="middle">0</text>
+      <line x1="480" y1="300" x2="480" y2="306" stroke="#94a3b8"/>
+      <text x="480" y="318" text-anchor="middle">300 mg</text>
+      <line x1="660" y1="300" x2="660" y2="306" stroke="#94a3b8"/>
+      <text x="660" y="318" text-anchor="middle">600 mg</text>
+      <line x1="840" y1="300" x2="840" y2="306" stroke="#94a3b8"/>
+      <text x="840" y="318" text-anchor="middle">900 mg</text>
+    </g>
+
+    <!-- criteria -->
+    <rect x="8" y="336" width="944" height="126" rx="16" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+    <text x="26" y="364" font-size="15.5" font-weight="700" fill="#0f172a">The three checks Cosequin itself tells buyers to run</text>
+    <g>
+      <rect x="26" y="378" width="292" height="66" rx="10" fill="#ffffff" stroke="#94a3b8"/>
+      <text x="42" y="402" font-size="13.5" font-weight="700" fill="#0f172a">1. Talk to your veterinarian</text>
+      <text x="42" y="422" font-size="12.5" fill="#475569">Schedule a visit first; the vet evaluates</text>
+      <text x="42" y="439" font-size="12.5" fill="#475569">your dog and recommends a product.</text>
+
+      <rect x="334" y="378" width="292" height="66" rx="10" fill="#ffffff" stroke="#94a3b8"/>
+      <text x="350" y="402" font-size="13.5" font-weight="700" fill="#0f172a">2. Review the ingredients</text>
+      <text x="350" y="422" font-size="12.5" fill="#475569">Research what is in the product - the</text>
+      <text x="350" y="439" font-size="12.5" fill="#475569">page names glucosamine and chondroitin.</text>
+
+      <rect x="642" y="378" width="292" height="66" rx="10" fill="#ffffff" stroke="#94a3b8"/>
+      <text x="658" y="402" font-size="13.5" font-weight="700" fill="#0f172a">3. Check manufacturing standards</text>
+      <text x="658" y="422" font-size="12.5" fill="#475569">Both brands publish 80+ quality checks</text>
+      <text x="658" y="439" font-size="12.5" fill="#475569">per batch and US manufacturing.</text>
+    </g>
+  </g>
+</svg>
