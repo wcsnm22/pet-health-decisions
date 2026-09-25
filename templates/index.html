@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google" content="notranslate">
+  <title>{{title}}</title>
+  {{head}}
+</head>
+<body>
+  <header class="site"><div class="wrap">
+    <div class="brand">{{brand}}</div>
+    <nav class="crumbs">{{nav}}</nav>
+  </div></header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Pet health decisions, answered on the first screen</h1>
+      <p class="lede">{{tagline}}</p>
+      <div class="answer">
+        <p><strong>Online vet:</strong> Vetster Plus is $12/month billed annually and includes 4 same-day video appointments a year plus unlimited messaging with registered vet techs; paying per appointment is also available at marketplace rates.</p>
+        <p><strong>Pet pharmacy:</strong> 1-800-PetMeds ships free on orders over $49 in 2-5 business days, and requires a veterinarian's approval before it ships prescription items. VetsterRx standard shipping is free for Vetster Plus members or orders over $45.</p>
+        <p><strong>Joint supplements:</strong> Cosequin publishes 25+ formulas for dogs, cats and horses and does not list prices on its own site - the price you pay is set by the retailer.</p>
+        <p><strong>Dog DNA tests:</strong> Embark's Breed + Health test is listed at $139 and screens 270+ genetic health conditions, with results in 2-4 weeks.</p>
+        <p class="muted">Every line above is sourced in the tables below and on each brand page, with the official URL and check date.</p>
+      </div>
+    </section>
+
+    <h2>The four brands at a glance</h2>
+    <div class="grid">{{cards}}</div>
+
+    <h2>Guides</h2>
+    <div class="grid">{{article_cards}}</div>
+
+    <h2>Facts with sources</h2>
+    <table>
+      <thead><tr><th>Fact</th><th>Condition to get it</th><th>Official source page</th><th>Checked</th></tr></thead>
+      <tbody>{{fact_table_rows}}</tbody>
+    </table>
+
+    <h2>FAQ</h2>
+    {{faqs}}
+
+    <footer class="site">{{footer}}</footer>
+  </main>
+</body>
+</html>
