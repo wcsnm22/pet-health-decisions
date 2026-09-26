@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" role="img" aria-label="Infographic: what Embark's three dog DNA kits report - Breed + Health at 139 dollars marked down from 159, Breed ID at 109 dollars marked down from 119 and Dog Age Test at 109 dollars; Breed + Health covers 400 plus breeds, 270 plus genetic health conditions, 55 plus traits, 4 allergy risk scores and Relative Finder, Breed ID covers 400 plus breeds and Relative Finder only, Age Test reports age and birthday with results in 4 to 5 weeks">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Embark's three kits: what each one actually reports</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Prices and feature lists read from Embark's own product pages on 2026-09-26. Dash = not published on the official site for that kit.</text>
+
+    <!-- kit headers -->
+    <g>
+      <rect x="250" y="70" width="220" height="62" rx="8" fill="#0f172a"/>
+      <text x="360" y="96" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Breed + Health</text>
+      <text x="360" y="120" font-size="16" font-weight="700" fill="#fbbf24" text-anchor="middle">$139 (regular $159)</text>
+
+      <rect x="484" y="70" width="220" height="62" rx="8" fill="#1e293b"/>
+      <text x="594" y="96" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Breed ID</text>
+      <text x="594" y="120" font-size="16" font-weight="700" fill="#fbbf24" text-anchor="middle">$109 (regular $119)</text>
+
+      <rect x="718" y="70" width="220" height="62" rx="8" fill="#334155"/>
+      <text x="828" y="96" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Dog Age Test</text>
+      <text x="828" y="120" font-size="16" font-weight="700" fill="#fbbf24" text-anchor="middle">$109</text>
+    </g>
+
+    <!-- rows -->
+    <g font-size="13.5" fill="#1e293b">
+      <g>
+        <rect x="8" y="144" width="930" height="44" rx="6" fill="#f1f5f9"/>
+        <text x="22" y="171" font-weight="600">Breed mix, ancestry, great-grandparents</text>
+        <text x="360" y="171" text-anchor="middle" font-weight="700" fill="#047857">400+ breeds</text>
+        <text x="594" y="171" text-anchor="middle" font-weight="700" fill="#047857">400+ breeds</text>
+        <text x="828" y="171" text-anchor="middle" fill="#94a3b8">-</text>
+      </g>
+      <g>
+        <rect x="8" y="192" width="930" height="44" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+        <text x="22" y="219" font-weight="600">Genetic health conditions screened</text>
+        <text x="360" y="219" text-anchor="middle" font-weight="700" fill="#047857">270+</text>
+        <text x="594" y="219" text-anchor="middle" fill="#94a3b8">-</text>
+        <text x="828" y="219" text-anchor="middle" fill="#94a3b8">-</text>
+      </g>
+      <g>
+        <rect x="8" y="240" width="930" height="44" rx="6" fill="#f1f5f9"/>
+        <text x="22" y="267" font-weight="600">Physical traits reported</text>
+        <text x="360" y="267" text-anchor="middle" font-weight="700" fill="#047857">55+</text>
+        <text x="594" y="267" text-anchor="middle" fill="#94a3b8">-</text>
+        <text x="828" y="267" text-anchor="middle" fill="#94a3b8">-</text>
+      </g>
+      <g>
+        <rect x="8" y="288" width="930" height="44" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+        <text x="22" y="315" font-weight="600">Allergy risk scores (environmental, food, contact, flea)</text>
+        <text x="360" y="315" text-anchor="middle" font-weight="700" fill="#047857">4 scores</text>
+        <text x="594" y="315" text-anchor="middle" fill="#94a3b8">-</text>
+        <text x="828" y="315" text-anchor="middle" fill="#94a3b8">-</text>
+      </g>
+      <g>
+        <rect x="8" y="336" width="930" height="44" rx="6" fill="#f1f5f9"/>
+        <text x="22" y="363" font-weight="600">Relative Finder (genetic relatives)</text>
+        <text x="360" y="363" text-anchor="middle" font-weight="700" fill="#047857">included</text>
+        <text x="594" y="363" text-anchor="middle" font-weight="700" fill="#047857">included</text>
+        <text x="828" y="363" text-anchor="middle" fill="#94a3b8">-</text>
+      </g>
+      <g>
+        <rect x="8" y="384" width="930" height="44" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+        <text x="22" y="411" font-weight="600">Results turnaround printed by Embark</text>
+        <text x="360" y="411" text-anchor="middle" font-weight="700" fill="#1d4ed8">2-4 weeks</text>
+        <text x="594" y="411" text-anchor="middle" font-weight="700" fill="#1d4ed8">2-4 weeks</text>
+        <text x="828" y="411" text-anchor="middle" font-weight="700" fill="#1d4ed8">4-5 weeks</text>
+      </g>
+    </g>
+
+    <text x="8" y="456" font-size="13" fill="#475569">Health screening, traits and Allergy Risk Scores are published only with Breed + Health and Purebred tests.</text>
+    <text x="8" y="478" font-size="13" fill="#475569">The Age Test page describes age and birthday estimation from DNA methylation, not breed or health reporting.</text>
+    <text x="8" y="502" font-size="12.5" fill="#64748b">Sources: embarkvet.com product pages for Breed + Health, Breed ID and Dog Age Test, plus Embark's How it works page. Read 2026-09-26.</text>
+  </g>
+</svg>

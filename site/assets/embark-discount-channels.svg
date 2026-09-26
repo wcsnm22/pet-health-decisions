@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="Infographic: where Embark's official discount comes from on 2026-09-26 - marked down prices of 13 percent on Breed and Health, 11 percent on the Breed and Health plus Age bundle, 8 percent on Breed ID and 6 percent on the Breed ID plus Age bundle, plus Refer A Friend at 10 dollars off for the friend and a 10 dollar coupon for you, a one time 10 dollar veterinary professional discount, 50 percent off a first supplements subscription order, and codes sent by email, with no standing public promo code published">
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="26" font-size="19" font-weight="700" fill="#0f172a">Where the official Embark discount actually comes from</text>
+    <text x="8" y="50" font-size="13.5" fill="#475569">Read from embarkvet.com product and Deals pages plus Embark's help center on 2026-09-26. No standing public promo code is published today.</text>
+
+    <!-- left: marked-down prices -->
+    <rect x="8" y="70" width="470" height="330" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="26" y="100" font-size="15" font-weight="700" fill="#0f172a">Price cut already on the page (no code needed)</text>
+
+    <g font-size="13" fill="#1e293b">
+      <text x="26" y="140">Breed + Health test</text>
+      <rect x="230" y="128" width="230" height="16" rx="4" fill="#e2e8f0"/>
+      <rect x="230" y="128" width="30" height="16" rx="4" fill="#0f172a"/>
+      <text x="268" y="141" font-weight="700">$159 → $139</text>
+      <text x="470" y="141" text-anchor="end" font-weight="700" fill="#b45309">13% off</text>
+
+      <text x="26" y="180">Breed + Health + Age bundle</text>
+      <rect x="230" y="168" width="230" height="16" rx="4" fill="#e2e8f0"/>
+      <rect x="230" y="168" width="26" height="16" rx="4" fill="#1e293b"/>
+      <text x="264" y="181" font-weight="700">$268 → $239</text>
+      <text x="470" y="181" text-anchor="end" font-weight="700" fill="#b45309">11% off</text>
+
+      <text x="26" y="220">Breed ID test</text>
+      <rect x="230" y="208" width="230" height="16" rx="4" fill="#e2e8f0"/>
+      <rect x="230" y="208" width="19" height="16" rx="4" fill="#334155"/>
+      <text x="257" y="221" font-weight="700">$119 → $109</text>
+      <text x="470" y="221" text-anchor="end" font-weight="700" fill="#b45309">8% off</text>
+
+      <text x="26" y="260">Breed ID + Age bundle</text>
+      <rect x="230" y="248" width="230" height="16" rx="4" fill="#e2e8f0"/>
+      <rect x="230" y="248" width="14" height="16" rx="4" fill="#64748b"/>
+      <text x="252" y="261" font-weight="700">$228 → $215</text>
+      <text x="470" y="261" text-anchor="end" font-weight="700" fill="#b45309">6% off</text>
+
+      <text x="26" y="300">Purebred test</text>
+      <rect x="230" y="288" width="230" height="16" rx="4" fill="#e2e8f0"/>
+      <rect x="230" y="288" width="30" height="16" rx="4" fill="#0f172a"/>
+      <text x="268" y="301" font-weight="700">$159 → $139</text>
+      <text x="470" y="301" text-anchor="end" font-weight="700" fill="#b45309">13% off</text>
+    </g>
+    <text x="26" y="340" font-size="12.5" fill="#475569">Deals page also lists: Subscribe &amp; save 50% off your first</text>
+    <text x="26" y="360" font-size="12.5" fill="#475569">supplements order, and the two test bundles above.</text>
+    <text x="26" y="386" font-size="12" fill="#64748b">embarkvet.com product pages and /pages/sale, read 2026-09-26.</text>
+
+    <!-- right: other official channels -->
+    <rect x="494" y="70" width="458" height="330" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="512" y="100" font-size="15" font-weight="700" fill="#0f172a">The other official channels</text>
+
+    <g font-size="13" fill="#1e293b">
+      <rect x="512" y="114" width="422" height="62" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+      <text x="526" y="138" font-weight="700">Refer A Friend: $10 + $10</text>
+      <text x="526" y="158" font-size="12.5" fill="#475569">Friend gets $10 off a first Breed + Health or Purebred</text>
+      <text x="526" y="172" font-size="12.5" fill="#475569">kit priced $139+; you get a $10 coupon, expires in 90 days.</text>
+
+      <rect x="512" y="184" width="422" height="54" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+      <text x="526" y="208" font-weight="700">Veterinary professionals: one-time $10</text>
+      <text x="526" y="228" font-size="12.5" fill="#475569">Breed + Health or Purebred kit, proof of role required.</text>
+
+      <rect x="512" y="246" width="422" height="54" rx="8" fill="#ffffff" stroke="#e2e8f0"/>
+      <text x="526" y="270" font-weight="700">Email list is where codes are sent</text>
+      <text x="526" y="290" font-size="12.5" fill="#475569">Offers may include special discount codes or sale updates.</text>
+
+      <rect x="512" y="308" width="422" height="76" rx="8" fill="#fff7ed" stroke="#fdba74"/>
+      <text x="526" y="332" font-weight="700" fill="#9a3412">No first-time-buyer sale running</text>
+      <text x="526" y="352" font-size="12.5" fill="#7c2d12">Embark's help center: no specific first-time purchaser</text>
+      <text x="526" y="368" font-size="12.5" fill="#7c2d12">sale; codes from external coupon sites may not be honored.</text>
+    </g>
+
+    <text x="8" y="430" font-size="13.5" fill="#0f172a" font-weight="600">Stacking rule: referral discounts cannot be combined with other offers; the veterinary discount cannot be combined either.</text>
+    <text x="8" y="454" font-size="13.5" fill="#0f172a" font-weight="600">Embark also prints that a promo code cannot be used to buy a gift card.</text>
+    <text x="8" y="486" font-size="12.5" fill="#64748b">Sources: embarkvet.com Deals page, product and bundle pages, eGift card page, and help.embarkvet.com articles on first-time purchasers,</text>
+    <text x="8" y="506" font-size="12.5" fill="#64748b">email promotions, failed discount codes, Refer A Friend, veterinary discounts and multi-test discounts. Read 2026-09-26.</text>
+    <text x="8" y="528" font-size="12.5" fill="#64748b">Prices and offers change; re-read the official page before buying.</text>
+  </g>
+</svg>

@@ -22,9 +22,11 @@ if cn:
 # (2) every fact + faq has official source + check date
 official = {"vetster.com", "www.vetster.com", "1800petmeds.com", "www.1800petmeds.com",
             "cosequin.com", "www.cosequin.com", "nutramax.com", "www.nutramax.com",
-            "embarkvet.com", "www.embarkvet.com", "chewy.com", "www.chewy.com",
+            "embarkvet.com", "www.embarkvet.com", "help.embarkvet.com", "shop.embarkvet.com",
+            "chewy.com", "www.chewy.com",
             "dasuquin.com", "www.dasuquin.com"}
-OFFICIAL_LINK = r'href="https://(?:www\.)?(?:vetster|1800petmeds|cosequin|nutramax|embarkvet|chewy|dasuquin)[^"]*"'
+# 允许品牌官方站的子域（如 help.embarkvet.com），但域名主体必须在上面的白名单里
+OFFICIAL_LINK = r'href="https://(?:[a-z0-9-]+\.)*(?:www\.)?(?:vetster|1800petmeds|cosequin|nutramax|embarkvet|chewy|dasuquin)[^"]*"'
 n = bad = offsite = 0
 for b in data["brands"]:
     for f in b["facts"] + b["faqs"]:

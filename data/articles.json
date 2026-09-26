@@ -1271,6 +1271,673 @@
           "h2": "Every brand on this site, page by page"
         }
       ]
+    },
+    {
+      "slug": "embark-dna-test-review",
+      "nav_label": "Embark Review",
+      "type": "review",
+      "keyword": "embark dna test review",
+      "published": "2026-09-26",
+      "title": "Embark Dog DNA Test Review 2026: Breed + Health vs Breed ID, Prices and What the Results Explain",
+      "description": "Embark dog DNA test review built only from Embark's own pages: Breed + Health at $139 (regular $159) screening 270+ genetic health conditions, 55+ traits and 4 allergy risk scores, Breed ID at $109 covering breeds and relatives only, results in 2-4 weeks - every figure with its official source, checked 2026-09-26.",
+      "h1": "Embark dog DNA test review: what the three kits report, what they cost and how long results take",
+      "lede": "Quick answer: buy Breed + Health if you want the health read-out, buy Breed ID if you only want the breed mix - and that split is Embark's own, printed in the product FAQ: Breed ID covers breed mix, ancestry and relatives, while Breed + Health adds screening for 270+ genetic health conditions, traits and Allergy Risk Scores. On 2026-09-26 Embark's product pages show Breed + Health at $139 against a regular price of $159 (13% off), Breed ID at $109 against $119 (8% off) and the Dog Age Test at $109. Results come back in 2-4 weeks for both DNA kits and in 4-5 weeks for the Age Test, with free US shipping in a pre-paid mailer. What the test is not: Embark states that genetic testing is an assessment of risk, not a diagnosis, and that a DNA test does not replace your veterinarian. Every number on this page was read from embarkvet.com on 2026-09-26.",
+      "stats": [
+        {
+          "value": "$139",
+          "label": "Breed + Health price on 2026-09-26, marked down from a regular price of $159 (13% off)"
+        },
+        {
+          "value": "270+",
+          "label": "genetic health conditions the Breed + Health test screens, alongside 55+ traits and 4 allergy risk scores"
+        },
+        {
+          "value": "2-4 weeks",
+          "label": "results turnaround Embark prints for Breed ID and Breed + Health; the Age Test page prints 4-5 weeks"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Breed + Health ($139)",
+          "url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit"
+        },
+        {
+          "name": "Breed ID ($109)",
+          "url": "https://embarkvet.com/products/breed-id-dog-dna-test-kit"
+        },
+        {
+          "name": "Dog Age Test ($109)",
+          "url": "https://embarkvet.com/products/dog-age"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Price shown on the product page (2026-09-26)",
+          "cells": [
+            "$139, marked down from a regular price of $159 - the page prints 13% off.",
+            "$109, marked down from a regular price of $119 - the page prints 8% off.",
+            "Starting at $109; the Dog Age Test 2-Pack is shown at $215 against $218."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+            "https://embarkvet.com/products/dog-age"
+          ]
+        },
+        {
+          "label": "Rating shown on the product page",
+          "cells": [
+            "4.7 out of 5, based on 19,757 reviews.",
+            "4.5 out of 5, based on 10,645 reviews.",
+            "4.4 out of 5, based on 922 reviews."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+            "https://embarkvet.com/products/dog-age"
+          ]
+        },
+        {
+          "label": "Breed mix and ancestry",
+          "cells": [
+            "400+ breeds, types and varieties with over 99% breed ancestry accuracy, plus a family tree and geographic origins going back to the great-grandparents.",
+            "Testing for over 400 breeds with 99% Breed ID accuracy, ancestry traced back to the great-grandparents, and the Personality Quiz.",
+            "not published on the official site as part of the Age Test - that page describes calendar age and birthday estimation only."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+            ""
+          ]
+        },
+        {
+          "label": "Genetic health conditions",
+          "cells": [
+            "270+ genetic health conditions, plus a predicted adult weight.",
+            "not published on the official site for Breed ID - Embark's product FAQ says Breed ID covers breed mix, ancestry and relatives only.",
+            "not published on the official site for the Age Test."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Physical traits",
+          "cells": [
+            "55+ physical traits, including size, coat colour, shedding and grooming needs.",
+            "not published on the official site for Breed ID - Embark's FAQ says Breed ID covers breed mix, ancestry and relatives only.",
+            "not published on the official site for the Age Test."
+          ],
+          "sources": [
+            "https://embarkvet.com/pages/traits-testing",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Allergy risk scores",
+          "cells": [
+            "4 scores - environmental, food, contact and flea - reported on a 0-100% scale.",
+            "not published on the official site for Breed ID.",
+            "not published on the official site for the Age Test."
+          ],
+          "sources": [
+            "https://embarkvet.com/pages/dog-allergy-risk-scores-test",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Relative Finder (genetic relatives)",
+          "cells": [
+            "Included - Embark lists Relative Finder for the Breed ID, Breed + Health and Purebred tests.",
+            "Included - the same Relative Finder listing covers Breed ID.",
+            "not published on the official site as part of the Age Test."
+          ],
+          "sources": [
+            "https://embarkvet.com/pages/relative-finder",
+            "https://embarkvet.com/pages/relative-finder",
+            ""
+          ]
+        },
+        {
+          "label": "Results turnaround",
+          "cells": [
+            "Results are typically ready within 2-4 weeks of the sample reaching the lab.",
+            "Results are typically ready within 2-4 weeks of the sample reaching the lab.",
+            "3. Results in 4-5 weeks; the kit graphic says results are available within 4-5 weeks of sample receipt."
+          ],
+          "sources": [
+            "https://embarkvet.com/pages/how-it-works",
+            "https://embarkvet.com/pages/how-it-works",
+            "https://embarkvet.com/products/dog-age"
+          ]
+        },
+        {
+          "label": "Swab, shipping and kit expiry",
+          "cells": [
+            "Swab the cheek pouch and under the tongue for at least 30 seconds; free US shipping in a pre-paid mailer; samples stay stable for 6 months and tests expire 2 years after purchase.",
+            "Swab the cheek pouch and under the tongue for at least 30 seconds; free US shipping in a pre-paid mailer; samples stay stable for 6 months and tests expire 2 years after purchase.",
+            "Swab for at least 60 seconds; free USPS shipping in a pre-paid return mailer."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+            "https://embarkvet.com/products/dog-age"
+          ]
+        },
+        {
+          "label": "Limited-time add-ons offered in the cart",
+          "cells": [
+            "Gut Health Test +$110 and Age Test +$100.",
+            "Gut Health Test +$110, Hip & Joint Supplement +$18.99 and S. Boulardii + FOS Powder +$75.",
+            "Gut Health Test +$110."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+            "https://embarkvet.com/products/dog-age"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Embark shows the Breed + Health dog DNA test at $139 against a regular price of $159 and prints 13% off on the page.",
+          "condition": "Add-to-cart price displayed on the product page on 2026-09-26; sale pricing changes without notice, so re-read the page before buying.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark shows the Breed ID dog DNA test at $109 against a regular price of $119 and prints 8% off on the page.",
+          "condition": "Add-to-cart price displayed on the product page on 2026-09-26; the page also advertises that the kit now includes the Personality Quiz.",
+          "source_url": "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark lists the Dog Age Test starting at $109, with the Dog Age Test 2-Pack shown at $215 against a regular price of $218.",
+          "condition": "Prices displayed on the Age Test product page on 2026-09-26; the page rates the test 4.4 out of 5 from 922 reviews.",
+          "source_url": "https://embarkvet.com/products/dog-age",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Breed + Health kit reports breed mix across 400+ breeds with over 99% breed ancestry accuracy, ancestry back to the great-grandparents, Relative Finder, 270+ genetic health conditions, a predicted adult weight, 55+ physical traits and 4 Allergy Risk Scores.",
+          "condition": "Listed under What you'll learn on the product page; the page also offers a genetic diversity (COI) score and an optional paid Behaviour Insights upgrade.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's own FAQ answers the difference this way: Breed ID covers breed mix, ancestry and relatives, while Breed + Health includes all of that plus screening for 270+ genetic health conditions, traits and Allergy Risk Scores.",
+          "condition": "Answer to the product FAQ question 'How is this different from the Breed ID Test?' on the Breed + Health page.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark prints that genetic health screening and Allergy Risk Scores are available exclusively with the Breed + Health and Purebred Dog DNA Tests.",
+          "condition": "Footnote on the How it works page; the Purebred page separately lists 270+ genetic health risks, 55 traits and allergy testing.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark states results for Breed ID and Breed + Health tests are typically ready within 2-4 weeks after the lab receives the sample, while Age Test results require 4-6 weeks.",
+          "condition": "FAQ on the How it works page; the Age Test product page itself prints 4-5 weeks, so both figures are shown rather than averaged.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark analyzes samples with microarray-based DNA testing on Illumina's CanineHD platform, a research-grade array that reads hundreds of thousands of genetic markers.",
+          "condition": "Stated in the How it works FAQ alongside the three steps: swab for about 30 seconds, activate and mail the kit in the prepaid envelope, receive results online and in the app.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark says 94% of dogs tested find at least one match genetically related as human first cousins, and each relative is ranked by percentage of shared DNA.",
+          "condition": "Printed on the Relative Finder page, which lists the feature as available for Breed ID, Breed + Health and Purebred tests, with messaging through the built-in chat.",
+          "source_url": "https://embarkvet.com/pages/relative-finder",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's health page states that 3 in 4 dogs tested have a carrier or at-risk health result and that 1 in 3 dog parents change care after receiving results.",
+          "condition": "Brand-published figures on the genetic health testing page, reproduced here as Embark's wording rather than as an independent finding.",
+          "source_url": "https://embarkvet.com/pages/health-insights",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The health report covers 270+ genetic health results and 55 traits, with examples on the page including MDR1 drug sensitivity, Mast Cell Tumor risk, Intervertebral Disc Disease, degenerative myelopathy and von Willebrand Disease Type I.",
+          "condition": "Embark says results arrive in one report online or in the app with plain-language explanations and the option to share them directly with your veterinarian.",
+          "source_url": "https://embarkvet.com/pages/health-insights",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark describes its Allergy Risk Scores as the only dog DNA test screening genetic allergy risk, reporting food, environmental, contact and flea allergy risk on a 0-100% scale.",
+          "condition": "Printed on the Allergy Risk Scores page, which says the scores are designed so owners and vets know which tests and treatments to focus on if symptoms develop.",
+          "source_url": "https://embarkvet.com/pages/dog-allergy-risk-scores-test",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark says it has analyzed data from over 3 million dogs and over 1 million survey responses, and works with ISO- and CLIA-certified genomic laboratories and academic partners.",
+          "condition": "Science and research page, which also describes research-grade genotyping used to identify 400+ breeds, 55 traits and 270+ health conditions.",
+          "source_url": "https://embarkvet.com/pages/science-and-research",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark says it is a research partner of Cornell University College of Veterinary Medicine and that genetic testing is an assessment of risk, not a diagnosis - results come with an explanation and next steps to bring to your vet.",
+          "condition": "Answers in the product FAQ, next to the note that genetic health risks do not always show symptoms right away.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Shipping is free within the US with a pre-paid mailer, samples remain stable for 6 months, and tests expire 2 years after purchase.",
+          "condition": "Step 2 of the instructions printed on the Breed + Health and Breed ID product pages; the Age Test page prints free USPS shipping and a 60-second swab.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Breed + Health product page displays a rating of 4.7 out of 5 based on 19,757 reviews.",
+          "condition": "Embark's own on-site review widget, read on 2026-09-26; this review quotes that figure rather than a third-party score.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is the Embark dog DNA test worth it?",
+          "a": "Embark's own answer is that a DNA test can uncover inherited health risks, explain certain traits and help you plan proactive care, especially when you share the results with your veterinarian - and that genetic health risks do not always show symptoms right away. Its health page adds that 3 in 4 dogs tested have a carrier or at-risk result and that 1 in 3 dog parents change care after receiving results. Those are Embark's figures, not an independent study.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Which Embark test should I buy?",
+          "a": "Embark's FAQ splits it plainly: Breed ID covers breed mix, ancestry and relatives, while Breed + Health includes all of that plus screening for 270+ genetic health conditions, traits and Allergy Risk Scores. Embark also notes that genetic health screening and Allergy Risk Scores are exclusive to Breed + Health and Purebred tests, so a health read-out means choosing one of those two.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much does Embark cost?",
+          "a": "On 2026-09-26 the product pages showed Breed + Health at $139 against a regular price of $159 (13% off), Breed ID at $109 against $119 (8% off), the Dog Age Test starting at $109 and the Purebred test at $139 against $159. Sale prices change, so treat these as the figures printed on the day rather than permanent prices.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How long do Embark results take?",
+          "a": "Embark prints 2-4 weeks for Breed ID and Breed + Health once the lab has the sample, and its Age Test page prints 4-5 weeks - the How it works FAQ gives 4-6 weeks for Age Tests, so both published figures are shown here rather than averaged. You are notified by email when results are ready.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does the health report actually explain?",
+          "a": "Embark says you get 270+ genetic health results and 55 traits in one report, online or in the app, with plain-language explanations and the option to share it directly with your veterinarian. Its own examples on the page include MDR1 drug sensitivity, Mast Cell Tumor risk and von Willebrand Disease Type I, and Embark frames each result as an explanation plus next steps rather than a verdict.",
+          "source_url": "https://embarkvet.com/pages/health-insights",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can a DNA test replace my vet?",
+          "a": "No, and Embark says so directly: a DNA test is not meant to replace your veterinarian, it works alongside your vet by giving you more information for clearer conversations about your dog's care. Embark also states that genetic testing is an assessment of risk, not a diagnosis.",
+          "source_url": "https://embarkvet.com/pages/how-it-works",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What are Allergy Risk Scores?",
+          "a": "Embark reports four scores - food, environmental, contact and flea allergy risk - on a 0-100% scale, and describes itself as the only dog DNA test screening genetic allergy risk. The page says the scores help owners and vets know which tests and treatments to focus on if symptoms develop; they ship with Breed + Health and Purebred tests.",
+          "source_url": "https://embarkvet.com/pages/dog-allergy-risk-scores-test",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How does Relative Finder work, and will I find relatives?",
+          "a": "Embark analyzes the sample against what it calls the world's largest canine genetic database and ranks every match by percentage of shared DNA, from immediate family to distant cousins. It states that 94% of dogs tested find at least one match genetically related as human first cousins, with optional messaging through the built-in chat.",
+          "source_url": "https://embarkvet.com/pages/relative-finder",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How accurate is Embark's dog DNA test?",
+          "a": "Embark advertises 99% breed identification accuracy and over 99% breed ancestry accuracy, powered by microarray-based testing on Illumina's CanineHD platform and a database it says covers over 3 million dogs. It also names Cornell University College of Veterinary Medicine as a research partner. These are the company's own accuracy claims.",
+          "source_url": "https://embarkvet.com/pages/science-and-research",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What should I know before I swab?",
+          "a": "Swab the inside of the cheek pouch and under the tongue for at least 30 seconds, activate the kit online and mail it back in the pre-paid envelope - shipping is free within the US. Embark notes samples stay stable for 6 months but tests expire 2 years after purchase, so plan the second test accordingly.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does this review check, and what does it not check?",
+          "a": "It checks only what Embark publishes on its own pages - product prices, kit feature lists, turnaround times, shipping and expiry rules, the relative-finder rate, the health-report contents and Embark's own on-site rating - each with an official source link and a check date of 2026-09-26. It does not buy a kit, run a lab comparison, quote third-party review sites or estimate what a test will say about your dog.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Editorial review built only from Embark's own product, feature and science pages - not veterinary advice and not a paid endorsement. Prices and sale pricing change, so every figure carries its official source link and a check date of 2026-09-26; re-read the official page before you buy. A DNA result is a risk assessment, not a diagnosis, and decisions about your dog's care belong with your veterinarian.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this review was built",
+          "html": "<p>Most Embark reviews open with a purchase and a story. This one opens with the pages Embark publishes itself, because that is the part anyone can re-check. On 2026-09-26 this page read the Breed + Health, Breed ID, Dog Age and Purebred product pages, the How it works page, the genetic health testing page, the Allergy Risk Scores page, the Relative Finder page, the physical traits page and the science and research page - all on embarkvet.com.</p><p><strong>Three rules follow from that.</strong> First, prices are the add-to-cart figures printed that day (Breed + Health at $139 against $159, Breed ID at $109 against $119), so the regular price and the markdown are shown together instead of the sale price being presented as the permanent price. Second, where a kit's own page does not publish something, the table says <em>not published on the official site</em> rather than filling the gap from a competitor's spec sheet. Third, the 4.7 out of 5 rating is Embark's own on-site review widget, quoted as Embark's number, not an independent score.</p><p><strong>What is deliberately left out:</strong> no coupon aggregators, no marketplace prices, no claims about what a test will find in your dog, and no veterinary conclusions - Embark itself states that genetic testing is an assessment of risk, not a diagnosis.</p>"
+        },
+        {
+          "type": "section",
+          "h2": "Which kit to buy, in one look",
+          "html": "<p><strong>Start from the question you actually have.</strong> If the question is 'what breed is my dog', Breed ID answers it at $109 and adds ancestry back to the great-grandparents plus Relative Finder. If the question is 'what should I watch for in my dog's health', the answer needs the health screen, and Embark's FAQ is explicit that this is the line between the two kits: Breed + Health adds 270+ genetic health conditions, traits and Allergy Risk Scores on top of everything Breed ID does.</p><p><strong>The Age Test answers a different question entirely.</strong> It estimates calendar age and birthday from DNA methylation, works best for dogs past the puppy stage, and its page does not publish breed or health reporting - so it is a companion kit, not a substitute for either DNA test.</p><p><strong>Timing and logistics are the same across the DNA kits:</strong> a 30-second cheek swab, activation online, a free pre-paid US mailer, and results in 2-4 weeks. Embark adds two constraints worth knowing before you buy - samples stay stable for 6 months, and the test itself expires 2 years after purchase.</p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Breed + Health vs Breed ID vs Age Test - published figures only"
+        },
+        {
+          "type": "section",
+          "h2": "What the results actually explain",
+          "html": "<p><strong>The report is built in four layers, and only one of them is medical.</strong> Layer one is breed mix, ancestry and relatives - 400+ breeds with over 99% breed ancestry accuracy, a family tree back to the great-grandparents, and Relative Finder, where Embark says 94% of dogs tested find at least one match genetically related as human first cousins. Layer two is the health screen: 270+ genetic health conditions with plain-language explanations and next steps to bring to your vet. Layer three is traits - 55 physical traits covering size, coat, shedding and grooming needs. Layer four is the four Allergy Risk Scores on a 0-100% scale.</p><p><strong>The medical layer is the one that carries weight, and Embark frames it as a conversation starter with your veterinarian rather than an answer.</strong> The company's own health page reports that 3 in 4 dogs tested have a carrier or at-risk result and that 1 in 3 dog parents change care after receiving results - which is exactly why the report arrives with an explanation and next steps rather than a verdict.</p><p><img src=\"/assets/embark-kit-results.svg\" alt=\"Infographic of Embark's three kits: Breed + Health at 139 dollars marked down from 159 covering 400 plus breeds, 270 plus genetic health conditions, 55 plus traits, 4 allergy risk scores and Relative Finder with results in 2 to 4 weeks; Breed ID at 109 dollars marked down from 119 covering breeds and relatives only; Dog Age Test at 109 dollars reporting age and birthday with results in 4 to 5 weeks\" width=\"100%\"></p>"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Embark dog DNA test - FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
+    },
+    {
+      "slug": "embark-discount-code",
+      "nav_label": "Embark Discounts",
+      "type": "coupon",
+      "keyword": "embark discount code",
+      "published": "2026-09-26",
+      "title": "Embark Discount Code 2026: Every Official Way to Pay Less, Verified on embarkvet.com",
+      "description": "Embark discount code guide built only from Embark's own pages: no standing public promo code is published as of 2026-09-26, the live price cuts are Breed + Health $139 from $159 (13% off) and bundles up to 11% off, Refer A Friend pays $10 plus $10, and veterinary professionals get a one-time $10 - each with its official source.",
+      "h1": "Embark discount code: the official ways to pay less, checked 2026-09-26",
+      "lede": "Quick answer: there is no standing public promo code to enter on Embark's own site as of 2026-09-26, so do not go hunting on coupon aggregators - Embark's help center warns that codes from external coupon sites can be incorrect and may not be honored. The money that is actually published comes from five official places: (1) price cuts already on the product pages - Breed + Health $139 against a regular $159 (13% off), Breed ID $109 against $119 (8% off); (2) bundles - Breed + Health + Age at $239 from $268 (11% off) and Breed ID + Age at $215 from $228 (6% off); (3) the Deals page's Subscribe & save offer of 50% off a first supplements order; (4) Refer A Friend - $10 off your friend's first kit and a $10 coupon for you; (5) a one-time $10 veterinary professional discount. Codes that do exist are emailed to the list, and Embark states it is not running a first-time-purchaser sale. Every line below carries its official source and a check date of 2026-09-26.",
+      "stats": [
+        {
+          "value": "No code",
+          "label": "no standing public promo code is published on Embark's official pages as of 2026-09-26"
+        },
+        {
+          "value": "13% off",
+          "label": "marked on the Breed + Health page - $139 against a regular price of $159, no code needed"
+        },
+        {
+          "value": "$10 + $10",
+          "label": "Refer A Friend: $10 off your friend's first qualifying kit and a $10 coupon for you"
+        }
+      ],
+      "columns": [
+        {
+          "name": "Sale prices on the product pages",
+          "url": "https://embarkvet.com/pages/sale"
+        },
+        {
+          "name": "Refer A Friend",
+          "url": "https://embarkvet.com/pages/referral"
+        },
+        {
+          "name": "Help Center: Sales & Discounts",
+          "url": "https://help.embarkvet.com/hc/en-us/sections/49710869669403-Discounts-Offers"
+        }
+      ],
+      "rows": [
+        {
+          "label": "What it gives you today",
+          "cells": [
+            "Breed + Health at $139 against a regular price of $159, shown as 13% off on the product page.",
+            "$10 off the friend's first kit and a $10 Embark coupon for you after their qualifying purchase.",
+            "Embark's answer to first-time purchasers: no specific sale is running, and the email list is where special discount codes get sent."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+            "https://help.embarkvet.com/hc/en-us/articles/56237901628059-Do-you-have-email-promotions-or-sales"
+          ]
+        },
+        {
+          "label": "Discount figure printed today",
+          "cells": [
+            "13% off - the Breed + Health page strikes $159 through to $139; the Breed ID page prints 8% off, $119 to $109.",
+            "$10 for your friend and $10 for you - both figures printed in the help center article.",
+            "No fixed figure - Embark says offers may include special discount codes or email updates about current general sales."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+            "https://help.embarkvet.com/hc/en-us/articles/56237901628059-Do-you-have-email-promotions-or-sales"
+          ]
+        },
+        {
+          "label": "Eligibility",
+          "cells": [
+            "Anyone buying from Embark's own product pages - the markdown is already applied to the displayed price.",
+            "The friend must be a first-time customer and must buy a Breed + Health or Purebred kit priced at $139 or more.",
+            "Join the email list in the Join our pack box at the bottom of the homepage to receive offers."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+            "https://help.embarkvet.com/hc/en-us/articles/56237901628059-Do-you-have-email-promotions-or-sales"
+          ]
+        },
+        {
+          "label": "Can it be combined with other offers?",
+          "cells": [
+            "not published on the official site as a stacking rule for the page price - the markdown is what the cart shows.",
+            "No - Embark prints that referral discounts cannot be combined with other offers.",
+            "Codes are not generic: Embark says some promotional codes work only on specific kit types or orders over a certain total, and many expire after the sale period."
+          ],
+          "sources": [
+            "",
+            "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+            "https://help.embarkvet.com/hc/en-us/articles/56238623530139-I-tried-to-use-a-discount-code-and-it-didn-t-work-Can-you-help-me"
+          ]
+        },
+        {
+          "label": "How to get it",
+          "cells": [
+            "Add the kit to the cart on the product page - no code field is involved, the discount is on the price.",
+            "Enter your name and email on the Refer A Friend page, then share your unique link or code.",
+            "Sign up in the Join our pack box; Embark says offers may include special discount codes or general sale updates."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+            "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+            "https://help.embarkvet.com/hc/en-us/articles/56237901628059-Do-you-have-email-promotions-or-sales"
+          ]
+        },
+        {
+          "label": "Other official discounts published alongside it",
+          "cells": [
+            "Bundle savings printed on the bundle pages: Breed + Health + Age at $239 from $268 (11% off) and Breed ID + Age at $215 from $228 (6% off).",
+            "not published on the official site as an extra referral benefit - the program pays $10 to your friend and $10 to you.",
+            "A one-time $10 discount for veterinary professionals on a Breed + Health or Purebred kit, which cannot be combined with other promotions."
+          ],
+          "sources": [
+            "https://embarkvet.com/products/breed-health-test-and-age-test-bundle",
+            "",
+            "https://help.embarkvet.com/hc/en-us/articles/56263428909211-Do-you-have-discounts-for-veterinary-professionals"
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "fact": "Embark shows the Breed + Health dog DNA test at $139 against a regular price of $159 and prints 13% off on the page.",
+          "condition": "Displayed price on the product page on 2026-09-26; no code is entered, the markdown is applied to the page price.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark shows the Breed ID dog DNA test at $109 against a regular price of $119 and prints 8% off on the page.",
+          "condition": "Displayed price on the product page on 2026-09-26; the Purebred test is separately shown at $139 against $159 (13% off).",
+          "source_url": "https://embarkvet.com/products/breed-id-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Breed + Health and Age Test Bundle is shown at $239 against a regular price of $268 and prints 11% off.",
+          "condition": "Bundle page price on 2026-09-26; the page states results in 2-4 weeks for the Breed + Health test and 4-5 weeks for the Age Test.",
+          "source_url": "https://embarkvet.com/products/breed-health-test-and-age-test-bundle",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "The Breed ID and Age Test Bundle is shown at $215 against a regular price of $228 and prints 6% off.",
+          "condition": "Bundle page price on 2026-09-26; the same page lists a Dog Age Test 2-Pack at $215 against $218 on the Age Test page.",
+          "source_url": "https://embarkvet.com/products/breed-id-test-and-age-test-bundle",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's Deals page lists Subscribe & save: 50% off your first supplements order, plus the Breed + Health and Age Test bundle and the Breed ID and Age Test bundle.",
+          "condition": "Read on the Deals page on 2026-09-26, where the page header also advertised the Breed + Health test at $139.",
+          "source_url": "https://embarkvet.com/pages/sale",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's help center states that it is not currently running a specific first-time purchaser sale and points readers to its current sale prices instead.",
+          "condition": "Answer in the help center article 'Do you have a sale for first-time purchasers?', updated 2026-09-23 and read 2026-09-26.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56238423425819-Do-you-have-a-sale-for-first-time-purchasers",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark says joining its email list is how you hear about offers, and that offers may include special discount codes or email updates about current general sales.",
+          "condition": "Answer in the help center article 'Do you have email promotions or sales?', updated 2026-09-23.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56237901628059-Do-you-have-email-promotions-or-sales",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark warns that promotional codes acquired through external coupon sites may not be honored because they are often incorrect and do not always represent Embark's current offers.",
+          "condition": "First item in the help center troubleshooting article for discount codes that do not work, updated 2026-09-23; the same article says codes can be kit-specific, order-total-specific or expired.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56238623530139-I-tried-to-use-a-discount-code-and-it-didn-t-work-Can-you-help-me",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's Refer A Friend program gives your friend $10 off their first kit and gives you a $10 Embark coupon by email after their qualifying purchase.",
+          "condition": "The friend must be a first-time customer buying a Breed + Health or Purebred kit priced at $139 or more; referral discounts cannot be combined with other offers and your reward expires 90 days from the date it is sent.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark offers a one-time professional discount of $10 off a Breed + Health or Purebred kit to veterinary professionals.",
+          "condition": "Requires name, email, address, clinic name and proof of role; Embark states it cannot be combined with other promotions.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56263428909211-Do-you-have-discounts-for-veterinary-professionals",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "For multiple kits Embark points buyers to Bundle & Save for pet owners, tiered breeder kit pricing, litter packages and a shelter and rescue program.",
+          "condition": "Answer in the help center article 'Do you offer a discount for purchasing multiple tests?', updated 2026-08-10.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/360002688913-Do-you-offer-a-discount-for-purchasing-multiple-tests",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's eGift card terms state that a promo code cannot be used to purchase a gift card, that more than one eGift card can be used toward a purchase, and that there is no expiration date or hidden fee.",
+          "condition": "Details printed on the eGift card product page, which sells cards in $50, $100, $150 and $200 amounts.",
+          "source_url": "https://embarkvet.com/products/embark-vet-egift-card",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark tells buyers who see a cheaper price to check the URL, warning that there has been a rise in websites impersonating Embark and that only https://embarkvet.com/ is the official website.",
+          "condition": "Help center article on price discrepancies, updated 2026-09-23, which also asks readers to send a link or screenshot to support.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56263587301659-I-saw-a-cheaper-price-What-should-I-do-if-I-see-a-price-discrepancy",
+          "checked": "2026-09-26"
+        },
+        {
+          "fact": "Embark's Sales & Discounts help center section lists seven articles and none of them publishes a student, military or senior discount.",
+          "condition": "Section listing read on 2026-09-26; the seven articles cover price discrepancies, veterinary discounts, Refer A Friend, failed discount codes, first-time purchasers, email promotions and multi-test discounts - so this page writes it as not published on the official site rather than borrowing a code from a coupon site.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/sections/49710869669403-Discounts-Offers",
+          "checked": "2026-09-26"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is there a working Embark promo code right now?",
+          "a": "No standing public promo code is published on Embark's official pages as of 2026-09-26. The discount that exists is already applied to the price: Breed + Health at $139 against a regular $159 (13% off) and Breed ID at $109 against $119 (8% off). Embark's help center says codes that do exist are emailed to the list, and it warns that codes from external coupon sites may not be honored.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56238623530139-I-tried-to-use-a-discount-code-and-it-didn-t-work-Can-you-help-me",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How much is Embark right now?",
+          "a": "On 2026-09-26: Breed + Health $139 (regular $159, 13% off), Breed ID $109 (regular $119, 8% off), Purebred $139 (regular $159, 13% off), Dog Age Test from $109, Breed + Health + Age bundle $239 (regular $268, 11% off) and Breed ID + Age bundle $215 (regular $228, 6% off). These are page prices, not code prices, and they change.",
+          "source_url": "https://embarkvet.com/products/breed-and-health-dog-dna-test-kit",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Do Embark codes from coupon sites work?",
+          "a": "Embark's own troubleshooting article says they often do not: codes found on external coupon sites may not be honored because they can be incorrect and may not represent Embark's current offers. It also lists three reasons a valid-looking code fails - it is specific to certain kits or order totals, or it has expired.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56238623530139-I-tried-to-use-a-discount-code-and-it-didn-t-work-Can-you-help-me",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Is there a discount for first-time buyers?",
+          "a": "Embark's help center says it is not currently running a specific first-time purchaser sale and points to its current sale prices instead. The closest official equivalent is Refer A Friend, where a first-time customer gets $10 off a Breed + Health or Purebred kit priced at $139 or more.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56238423425819-Do-you-have-a-sale-for-first-time-purchasers",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "How does Refer A Friend work?",
+          "a": "You enter your name and email on Embark's referral page, then share your unique link or code. Your friend must be a first-time customer buying a Breed + Health or Purebred kit priced at $139 or more; after their purchase you get a $10 coupon by email, it expires 90 days after it is sent, and referral discounts cannot be combined with other offers.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Can I stack two discounts?",
+          "a": "Not with the referral program - Embark prints that referral discounts cannot be combined with other offers, and the veterinary professional discount says the same. For promo codes generally, Embark says some codes work only on specific kit types or orders over a certain total, so check the email or page where the offer came from.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56240110599195-How-does-Embark-s-Refer-A-Friend-program-work",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "Are there vet, breeder or shelter discounts?",
+          "a": "Yes, all published in the help center: veterinary professionals get a one-time $10 off a Breed + Health or Purebred kit with proof of role; buyers of multiple kits are pointed to Bundle & Save, tiered breeder kit pricing, litter packages, and a shelter and rescue program.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56263428909211-Do-you-have-discounts-for-veterinary-professionals",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What about student, military or senior discounts?",
+          "a": "not published on the official site - Embark's Sales & Discounts section lists seven articles covering price discrepancies, veterinary discounts, Refer A Friend, failed codes, first-time purchasers, email promotions and multi-test discounts, and none of them publishes a student, military or senior discount. This page will not borrow one from a coupon aggregator.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/sections/49710869669403-Discounts-Offers",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "I saw the same kit much cheaper somewhere else - what now?",
+          "a": "Embark asks you to check the URL first: it warns of a rise in websites impersonating Embark and states that only https://embarkvet.com/ is the official website. It also asks buyers to send support the link, screenshot or email where they saw the lower price so the source can be checked.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/articles/56263587301659-I-saw-a-cheaper-price-What-should-I-do-if-I-see-a-price-discrepancy",
+          "checked": "2026-09-26"
+        },
+        {
+          "q": "What does this page check, and what does it not check?",
+          "a": "It checks only what Embark publishes on its own pages - the Deals page, the product and bundle pages, the eGift card terms and all seven articles in the help center's Sales & Discounts section - each with an official source link and a check date of 2026-09-26. It does not use coupon aggregators, does not test codes at checkout and does not promise that a sale price will still be there tomorrow.",
+          "source_url": "https://help.embarkvet.com/hc/en-us/sections/49710869669403-Discounts-Offers",
+          "checked": "2026-09-26"
+        }
+      ],
+      "disclaimer": "Discount and price information assembled only from Embark's own product pages, Deals page, gift card terms and help center - not a coupon aggregator and not a paid endorsement. Sale prices, bundle prices and referral terms change, so every figure carries its official source link and a check date of 2026-09-26; re-read the official page before you buy. If a code fails, Embark's own advice is to contact its support team rather than trust a third-party coupon site.",
+      "blocks": [
+        {
+          "type": "section",
+          "h2": "How this page was checked",
+          "html": "<p>Coupon pages are where fake codes breed, so this one was built the other way round: on 2026-09-26 it read Embark's Deals page, the Breed + Health, Breed ID, Purebred, Dog Age and two bundle product pages, the eGift card terms, the referral page, and all seven articles in the Sales & Discounts section of Embark's help center - the section that covers price discrepancies, veterinary discounts, Refer A Friend, failed discount codes, first-time purchasers, email promotions and multi-test discounts.</p><p><strong>The headline finding is a negative one, and it is worth money.</strong> Embark does not publish a standing public promo code. Its first-time purchaser article says no specific sale is running; its failed-code article warns that codes from external coupon sites are often incorrect and may not be honored. So the honest answer to 'what is the Embark promo code' today is that the discount is already in the page price.</p><p><strong>What is deliberately left out:</strong> every code lifted from a coupon aggregator, every expired holiday code, and every percentage that Embark itself does not print. Where an offer does not exist on the official site, the cell says <em>not published on the official site</em>.</p>"
+        },
+        {
+          "type": "section",
+          "h2": "The five official ways to pay less",
+          "html": "<p><strong>1. Take the price that is already on the page.</strong> On 2026-09-26 the Breed + Health page struck $159 through to $139 (13% off) and the Breed ID page struck $119 through to $109 (8% off). No code field is involved - the markdown is the price.</p><p><strong>2. Buy the bundle if you were buying both kits anyway.</strong> The Breed + Health and Age Test bundle shows $239 against $268 (11% off) and the Breed ID and Age Test bundle shows $215 against $228 (6% off), both printed with the percentage on the bundle page.</p><p><strong>3. Use the subscription offer on the Deals page.</strong> Embark lists Subscribe &amp; save: 50% off your first supplements order - a supplements offer, not a test offer, so it does not reduce the kit price.</p><p><strong>4. Refer a friend, both sides get $10.</strong> Your friend needs to be a first-time customer buying a Breed + Health or Purebred kit at $139 or more; your $10 coupon arrives by email and expires 90 days later. Referral discounts cannot be stacked.</p><p><strong>5. If you are a veterinarian, claim the one-time $10.</strong> Embark offers veterinary professionals $10 off a Breed + Health or Purebred kit with proof of role, once, not combinable with other promotions.</p><p><img src=\"/assets/embark-discount-channels.svg\" alt=\"Infographic of Embark's official discount channels on 2026-09-26: page price cuts of 13 percent on Breed and Health, 11 percent on the Breed and Health plus Age bundle, 8 percent on Breed ID, 6 percent on the Breed ID plus Age bundle and 13 percent on the Purebred test, plus Refer A Friend at 10 dollars and 10 dollars, a one-time 10 dollar veterinary discount, 50 percent off a first supplements subscription order, codes sent by email and no first-time-purchaser sale running\" width=\"100%\"></p>"
+        },
+        {
+          "type": "compare",
+          "h2": "Where the official discount actually comes from - three channels side by side"
+        },
+        {
+          "type": "facts",
+          "h2": "Every figure with its official source"
+        },
+        {
+          "type": "faqs",
+          "h2": "Embark discount code - FAQ"
+        },
+        {
+          "type": "cards",
+          "h2": "Every brand on this site, page by page"
+        }
+      ]
     }
   ]
 }

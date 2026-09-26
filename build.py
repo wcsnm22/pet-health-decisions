@@ -31,6 +31,8 @@ OFFICIAL_HOSTS = {
     "cosequin.com", "www.cosequin.com",
     "nutramax.com", "www.nutramax.com",
     "embarkvet.com", "www.embarkvet.com",
+    "help.embarkvet.com", "www.help.embarkvet.com",
+    "shop.embarkvet.com",
     "chewy.com", "www.chewy.com",
     "dasuquin.com", "www.dasuquin.com",
 }
