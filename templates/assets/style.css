@@ -261,6 +261,11 @@ dd { margin: 0; word-break: break-word; }
 footer.site { border-top: 1px solid var(--line); margin-top: 52px; padding-top: 22px; }
 footer.site p { margin: 0 0 7px; }
 footer.site strong { color: var(--text); }
+/* ::RULE{family links are real cross-site links - keep them visible text, never hidden} */
+footer.site p.family { margin: 12px 0 0; padding-top: 11px; border-top: 1px solid var(--line); font-size: 13px; line-height: 2; }
+footer.site p.family a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+footer.site p.family a:hover { color: var(--text); }
+
 
 /* --------------------------------------------------------- pixel critters */
 

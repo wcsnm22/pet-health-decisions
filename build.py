@@ -261,6 +261,28 @@ FOOTER_LINKS = (
     '<a href="/contact">Contact</a> · <a href="/sitemap.xml">Sitemap</a>'
 )
 
+# The four sites of this project share one sourcing rule but live on separate
+# domains (pages.dev is its own entry in the Public Suffix List), so these are
+# cross-site links, not internal ones. The site's own key is dropped at build
+# time and the anchors describe the other site rather than repeat its name.
+SIBLING_SITES = (
+    ("furadvisor", "https://furadvisor.com", "pet insurance coverage and waiting periods"),
+    ("pet-health-decisions", "https://pet-health-decisions.pages.dev", "online vet visits and at-home tests"),
+    ("pet-fresh-food-decisions", "https://pet-fresh-food-decisions.pages.dev", "fresh food subscriptions"),
+    ("smart-pet-device-decisions", "https://smart-pet-device-decisions.pages.dev", "smart feeders and trackers"),
+)
+SITE_KEY = "pet-health-decisions"
+
+
+def family_footer() -> str:
+    """Footer line linking the other three sites of the project."""
+    links = " · ".join(
+        f'<a href="{url}">{label}</a>'
+        for key, url, label in SIBLING_SITES
+        if key != SITE_KEY
+    )
+    return f'<p class="family">Pet Care Decisions project: {links}</p>'
+
 
 # ------------------------------------------------------------------ 构建
 def build() -> None:
@@ -381,7 +403,7 @@ def build() -> None:
         "article_cards": article_cards,
         "fact_table_rows": fact_rows(data["home_facts"]),
         "faqs": faq_html,
-        "footer": FOOTER_LINKS,
+        "footer": FOOTER_LINKS + family_footer(),
         "generated_at": generated_at,
     })
     (SITE_DIR / "index.html").write_text(home, encoding="utf-8")
@@ -459,7 +481,7 @@ def build() -> None:
             "fact_table_rows": fact_rows(b["facts"]),
             "faqs": faq_html,
             "checked": site["checked"],
-            "footer": FOOTER_LINKS,
+            "footer": FOOTER_LINKS + family_footer(),
         })
         (SITE_DIR / f'{b["slug"]}.html').write_text(html, encoding="utf-8")
 
@@ -541,7 +563,7 @@ def build() -> None:
             )),
             "disclaimer": a.get("disclaimer", ""),
             "checked": site["checked"],
-            "footer": FOOTER_LINKS,
+            "footer": FOOTER_LINKS + family_footer(),
         })
         (SITE_DIR / f'{a["slug"]}.html').write_text(html, encoding="utf-8")
 
@@ -570,7 +592,7 @@ def build() -> None:
             "nav": f'<a href="/">Home</a> · {nav}',
             "repo": site["repo"],
             "checked": site["checked"],
-            "footer": FOOTER_LINKS,
+            "footer": FOOTER_LINKS + family_footer(),
         })
         (SITE_DIR / f"{page}.html").write_text(html, encoding="utf-8")
 
