@@ -256,6 +256,26 @@ def head_block(title: str, description: str, canonical: str, jsonld_blocks: list
     return "\n  ".join(parts)
 
 
+INDEXNOW_KEY_PATH = ROOT / "indexnow-key.txt"
+
+
+def indexnow_key() -> str:
+    """The IndexNow key, generated once and then kept stable in the repo.
+
+    Regenerating it on every build would orphan URLs already submitted under the
+    old key, so it is read from a file and only created if that file is absent.
+    """
+    if INDEXNOW_KEY_PATH.exists():
+        key = INDEXNOW_KEY_PATH.read_text(encoding="utf-8").strip()
+    else:
+        # os is already imported here; uuid is not, and this is the same entropy.
+        key = os.urandom(16).hex()
+        INDEXNOW_KEY_PATH.write_text(key, encoding="utf-8")
+    if not re.fullmatch(r"[0-9a-f]{8,128}", key):
+        raise SystemExit(f"INDEXNOW KEY IS NOT A HEX STRING: {key!r}")
+    return key
+
+
 FOOTER_LINKS = (
     '<a href="/">Home</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · '
     '<a href="/contact">Contact</a> · <a href="/sitemap.xml">Sitemap</a>'
@@ -620,6 +640,15 @@ def build() -> None:
     (SITE_DIR / "sitemap.xml").write_text(sitemap, encoding="utf-8")
     robots = f"User-agent: *\nAllow: /\n\nSitemap: {page_url(site, '/sitemap.xml')}\n"
     (SITE_DIR / "robots.txt").write_text(robots, encoding="utf-8")
+    # ---- IndexNow key file
+    # IndexNow asks for <key>.txt in the site root whose contents ARE the key, so
+    # the submission can prove domain ownership. The key lives in the repo rather
+    # than being regenerated per build: rotating it would orphan URLs already
+    # submitted under the old one.
+    # ::RULE{the key file must be publicly reachable, so the worker allowlist has to carry it}
+    key = indexnow_key()
+    (SITE_DIR / f"{key}.txt").write_text(key, encoding="utf-8")
+
 
     # ---- _worker.js（规范主机 + 真 404）
     from urllib.parse import urlparse
@@ -628,7 +657,7 @@ def build() -> None:
     assets = sorted(
         f"/assets/{p.name}" for p in (SITE_DIR / "assets").iterdir() if p.is_file()
     )
-    valid_paths = sorted({"/"} | {path for path, _ in urls} | {"/sitemap.xml", "/robots.txt"} | set(assets))
+    valid_paths = sorted({"/"} | {path for path, _ in urls} | {"/sitemap.xml", "/robots.txt", f"/{indexnow_key()}.txt"} | set(assets))
     worker = (
         WORKER_TEMPLATE
         .replace("__CANONICAL_HOST__", host)

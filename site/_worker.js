@@ -1,7 +1,7 @@
 // ILANG
 // TYPE:worker ROLE:canonical-host-and-real-404
 const CANONICAL_HOST = "pet-health-decisions.pages.dev";
-const VALID_PATHS = new Set(["/", "/1800petmeds-online-pharmacy", "/about", "/assets/embark-discount-channels.svg", "/assets/embark-kit-results.svg", "/assets/favicon.svg", "/assets/joint-label-compare.svg", "/assets/online-vet-vs-inperson.svg", "/assets/rx-order-flow.svg", "/assets/style.css", "/assets/vetster-plan-compare.svg", "/best-joint-supplement-for-dogs", "/buy-pet-prescription-meds-online", "/contact", "/cosequin-joint-supplement", "/embark-discount-code", "/embark-dna-test", "/embark-dna-test-review", "/online-vet-vs-in-person", "/privacy", "/robots.txt", "/sitemap.xml", "/vetster-online-vet", "/vetster-review"]);
+const VALID_PATHS = new Set(["/", "/1800petmeds-online-pharmacy", "/6a8b6eb97e1dbde4e9eef2ef518cd0cc.txt", "/about", "/assets/embark-discount-channels.svg", "/assets/embark-kit-results.svg", "/assets/favicon.svg", "/assets/joint-label-compare.svg", "/assets/online-vet-vs-inperson.svg", "/assets/rx-order-flow.svg", "/assets/style.css", "/assets/vetster-plan-compare.svg", "/best-joint-supplement-for-dogs", "/buy-pet-prescription-meds-online", "/contact", "/cosequin-joint-supplement", "/embark-discount-code", "/embark-dna-test", "/embark-dna-test-review", "/online-vet-vs-in-person", "/privacy", "/robots.txt", "/sitemap.xml", "/vetster-online-vet", "/vetster-review"]);
 
 export default {
   async fetch(request, env) {
